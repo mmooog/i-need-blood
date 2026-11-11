@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: 60e55d2d0c859c447935382b900969c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6217879372532666737
+    second: Gothic_0
+  - first:
+      213: -7326464703034166322
+    second: Gothic_1
+  - first:
+      213: 4116550368676510979
+    second: Gothic_2
+  - first:
+      213: -5866111687121753296
+    second: Gothic_3
+  - first:
+      213: 131943827755143818
+    second: Gothic_4
+  - first:
+      213: -974024808552076010
+    second: Gothic_5
+  - first:
+      213: 3206167487426226986
+    second: Gothic_6
+  - first:
+      213: -5169749493131416904
+    second: Gothic_7
+  - first:
+      213: -2685115677303339783
+    second: Gothic_8
+  - first:
+      213: 5759081096940443025
+    second: Gothic_9
+  - first:
+      213: 7570762961580651862
+    second: Gothic_10
+  - first:
+      213: 2018715291634620666
+    second: Gothic_11
+  - first:
+      213: 4311859561355398046
+    second: Gothic_12
+  - first:
+      213: -559807122390793904
+    second: Gothic_13
+  - first:
+      213: -4336679716716677011
+    second: Gothic_14
+  - first:
+      213: 7610781826076342589
+    second: Gothic_15
+  - first:
+      213: 1459320570451279176
+    second: Gothic_16
+  - first:
+      213: 6549000482400440661
+    second: Gothic_17
+  - first:
+      213: -4809780881883619268
+    second: Gothic_18
+  - first:
+      213: 628722167180615385
+    second: Gothic_19
+  - first:
+      213: 911836255785026051
+    second: Gothic_20
+  - first:
+      213: -4043422614855463354
+    second: Gothic_21
+  - first:
+      213: 4350100608468265868
+    second: Gothic_22
+  - first:
+      213: 140282986205882903
+    second: Gothic_23
+  - first:
+      213: 1215828807102279634
+    second: Gothic_24
+  - first:
+      213: 2328810493290064457
+    second: Gothic_25
+  - first:
+      213: 6963581663725053862
+    second: Gothic_26
+  - first:
+      213: -6620399901879438027
+    second: Gothic_27
+  - first:
+      213: -7404306064595909475
+    second: Gothic_28
+  - first:
+      213: -2302841610193262612
+    second: Gothic_29
+  - first:
+      213: -7230002624988462123
+    second: Gothic_30
+  - first:
+      213: -3433589714043200358
+    second: Gothic_31
+  - first:
+      213: -7256194058192579738
+    second: Gothic_32
+  - first:
+      213: 7578076420572080703
+    second: Gothic_33
+  - first:
+      213: 7467074707086883522
+    second: Gothic_34
+  - first:
+      213: 4253952356047530689
+    second: Gothic_35
+  - first:
+      213: -9108349831330536739
+    second: Gothic_36
+  - first:
+      213: -8830223175042113976
+    second: Gothic_37
+  - first:
+      213: 7321792460990184545
+    second: Gothic_38
+  - first:
+      213: -2127749945959297477
+    second: Gothic_39
+  - first:
+      213: -8348981816294002675
+    second: Gothic_40
+  - first:
+      213: -1533673595949142355
+    second: Gothic_41
+  - first:
+      213: -2158189867420332856
+    second: Gothic_42
+  - first:
+      213: 3363077617448570749
+    second: Gothic_43
+  - first:
+      213: -8389131472552414440
+    second: Gothic_44
+  - first:
+      213: 1676317307664833068
+    second: Gothic_45
+  - first:
+      213: 2063383947678376891
+    second: Gothic_46
+  - first:
+      213: -4010896840216623311
+    second: Gothic_47
+  - first:
+      213: -8137245157677229485
+    second: Gothic_48
+  - first:
+      213: 3670242044322615473
+    second: Gothic_49
+  - first:
+      213: -5180743535765061659
+    second: Gothic_50
+  - first:
+      213: -4954080160388665843
+    second: Gothic_51
+  - first:
+      213: -2297327983027525779
+    second: Gothic_52
+  - first:
+      213: 235995862952634614
+    second: Gothic_53
+  - first:
+      213: 744884394442116998
+    second: Gothic_54
+  - first:
+      213: 438630921533366329
+    second: Gothic_55
+  - first:
+      213: 7418379095261902485
+    second: Gothic_56
+  - first:
+      213: -3112517381877747614
+    second: Gothic_57
+  - first:
+      213: 2143270756632842555
+    second: Gothic_58
+  - first:
+      213: 7102557470641071792
+    second: Gothic_59
+  - first:
+      213: 7399090735547688347
+    second: Gothic_60
+  - first:
+      213: -334848555251532304
+    second: Gothic_61
+  - first:
+      213: -1012334924966813832
+    second: Gothic_62
+  - first:
+      213: 5258880241940208614
+    second: Gothic_63
+  - first:
+      213: -8329645516692244507
+    second: Gothic_64
+  - first:
+      213: 5187184371085636821
+    second: Gothic_65
+  - first:
+      213: 2955984546255214053
+    second: Gothic_66
+  - first:
+      213: 823993833082502214
+    second: Gothic_67
+  - first:
+      213: 2594385775666842530
+    second: Gothic_68
+  - first:
+      213: 4629497764771592761
+    second: Gothic_69
+  - first:
+      213: -2740633552896859277
+    second: Gothic_70
+  - first:
+      213: -4675699114167322412
+    second: Gothic_71
+  - first:
+      213: -1375808987868329261
+    second: Gothic_72
+  - first:
+      213: -2571769673058641646
+    second: Gothic_73
+  - first:
+      213: -1705449700585208756
+    second: Gothic_74
+  - first:
+      213: 787867728581731749
+    second: Gothic_75
+  - first:
+      213: 8730335614530749915
+    second: Gothic_76
+  - first:
+      213: 2692270653421403644
+    second: Gothic_77
+  - first:
+      213: 2849873100290240739
+    second: Gothic_78
+  - first:
+      213: 1431828615159108387
+    second: Gothic_79
+  - first:
+      213: -3927482928139070192
+    second: Gothic_80
+  - first:
+      213: -8911160912564245657
+    second: Gothic_81
+  - first:
+      213: 5713641149217038988
+    second: Gothic_82
+  - first:
+      213: 5123884463546671589
+    second: Gothic_83
+  - first:
+      213: -822792749800549136
+    second: Gothic_84
+  - first:
+      213: -7142095238610465768
+    second: Gothic_85
+  - first:
+      213: 6006970083705443453
+    second: Gothic_86
+  - first:
+      213: 2145401452258650617
+    second: Gothic_87
+  - first:
+      213: -4677351744807668182
+    second: Gothic_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gothic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 192
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e26f787a7a5b9a0800000000000000
+      internalID: -6217879372532666737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f53c7b2b235a90800000000000000
+      internalID: -7326464703034166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 529
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d77f8ffbce02930800000000000000
+      internalID: 4116550368676510979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 623
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b27542082679ea0800000000000000
+      internalID: -5866111687121753296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8296a75632c4d100800000000000000
+      internalID: 131943827755143818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 527
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de5d3e8919b72f0800000000000000
+      internalID: -974024808552076010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 548
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6272c7589e7c20800000000000000
+      internalID: 3206167487426226986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba652cf93c5148b0800000000000000
+      internalID: -5169749493131416904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 480
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f48081948d8cbad0800000000000000
+      internalID: -2685115677303339783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 431
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955dc7aebd5cef40800000000000000
+      internalID: 5759081096940443025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 440
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f2bb4dc0c01960800000000000000
+      internalID: 7570762961580651862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d784bcdae30c10800000000000000
+      internalID: 2018715291634620666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 335
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc5f30d6dc6db30800000000000000
+      internalID: 4311859561355398046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051c92f536a2b38f0800000000000000
+      internalID: -559807122390793904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 358
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68f57c36c401d3c0800000000000000
+      internalID: -4336679716716677011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3977464fbdee9960800000000000000
+      internalID: 7610781826076342589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3b27b35c804410800000000000000
+      internalID: 1459320570451279176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 239
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551175b9d39b2ea50800000000000000
+      internalID: 6549000482400440661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30acdf65c9304db0800000000000000
+      internalID: -4809780881883619268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 282
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded63dda7ba9b800800000000000000
+      internalID: 628722167180615385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30283675e3e77ac00800000000000000
+      internalID: 911836255785026051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 213
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e42c40e80e2e7c0800000000000000
+      internalID: -4043422614855463354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 226
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b26f0a479ae5c30800000000000000
+      internalID: 4350100608468265868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a25d8f1a262f100800000000000000
+      internalID: 140282986205882903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 220
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa40bbbdd7fd010800000000000000
+      internalID: 1215828807102279634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aa1c91ec8915020800000000000000
+      internalID: 2328810493290064457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 225
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a761c6e0ac93a060800000000000000
+      internalID: 6963581663725053862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535f1799d5d9f14a0800000000000000
+      internalID: -6620399901879438027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d948d7b2dde9e3990800000000000000
+      internalID: -7404306064595909475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 222
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7217aa1c9aa00e0800000000000000
+      internalID: -2302841610193262612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 143
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3cb643beed9ab90800000000000000
+      internalID: -7230002624988462123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 194
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1506d8507950d0800000000000000
+      internalID: -3433589714043200358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 194
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639124f2f1dc4b90800000000000000
+      internalID: -7256194058192579738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 191
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a66f8aa5cba2960800000000000000
+      internalID: 7578076420572080703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 196
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cab73342e060a760800000000000000
+      internalID: 7467074707086883522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 191
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca26a12123190b30800000000000000
+      internalID: 4253952356047530689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 197
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ed852614a89180800000000000000
+      internalID: -9108349831330536739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 199
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e513c8eceb47580800000000000000
+      internalID: -8830223175042113976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cf374637b3c9560800000000000000
+      internalID: 7321792460990184545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 212
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4d3c82b6b872e0800000000000000
+      internalID: -2127749945959297477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 163
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b99bd545722c80800000000000000
+      internalID: -8348981816294002675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 163
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2e008dfb47bae0800000000000000
+      internalID: -1533673595949142355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 197
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc409a00c19c02e0800000000000000
+      internalID: -2158189867420332856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 157
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc614564d0cae20800000000000000
+      internalID: 3363077617448570749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 192
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b67c8f51d39b80800000000000000
+      internalID: -8389131472552414440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 194
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a9336b5b9734710800000000000000
+      internalID: 1676317307664833068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ec94a4cc92ac10800000000000000
+      internalID: 2063383947678376891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c620139e6658c0800000000000000
+      internalID: -4010896840216623311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a916e54a2b21f80800000000000000
+      internalID: -8137245157677229485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 95
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09d8b81b15fe230800000000000000
+      internalID: 3670242044322615473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7256f33d4a18b0800000000000000
+      internalID: -5180743535765061659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_51
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 146
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e293b87529f3bb0800000000000000
+      internalID: -4954080160388665843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_52
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 149
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6764170f504e10e0800000000000000
+      internalID: -2297327983027525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_53
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 146
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e0cbacfc664300800000000000000
+      internalID: 235995862952634614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 147
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f4471096c565a00800000000000000
+      internalID: 744884394442116998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930af79cf74561600800000000000000
+      internalID: 438630921533366329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f44e9b7063f660800000000000000
+      internalID: 7418379095261902485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260b2f79eed1ec4d0800000000000000
+      internalID: -3112517381877747614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 45
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31559ac56d6ebd10800000000000000
+      internalID: 2143270756632842555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 97
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ab5a736a519260800000000000000
+      internalID: 7102557470641071792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 53
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95243962d9dea660800000000000000
+      internalID: 7399090735547688347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 103
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdfdaa53016a5bf0800000000000000
+      internalID: -334848555251532304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 106
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f91a3dfb673f1f0800000000000000
+      internalID: -1012334924966813832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb9a21a7bb4bf840800000000000000
+      internalID: 5258880241940208614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_64
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 105
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e732a0f887276c80800000000000000
+      internalID: -8329645516692244507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_65
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 92
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4740fd3b49cf740800000000000000
+      internalID: 5187184371085636821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_66
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 103
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e516198844c50920800000000000000
+      internalID: 2955984546255214053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_67
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 60
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cbef5860a6f6b00800000000000000
+      internalID: 823993833082502214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_68
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 96
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc2f80e1c110420800000000000000
+      internalID: 2594385775666842530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_69
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 103
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93afcad50b74f3040800000000000000
+      internalID: 4629497764771592761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e01cdd4057f9d0800000000000000
+      internalID: -2740633552896859277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 51
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8b277bd649c1fb0800000000000000
+      internalID: -4675699114167322412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da815fc30528ece0800000000000000
+      internalID: -1375808987868329261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_73
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 67
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2199731bb1d3f4cd0800000000000000
+      internalID: -2571769673058641646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 58
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44825e78860558e0800000000000000
+      internalID: -1705449700585208756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_75
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 58
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ab1c56811fea00800000000000000
+      internalID: 787867728581731749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 64
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50c027cf1682970800000000000000
+      internalID: 8730335614530749915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_77
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 57
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd346025eddc5520800000000000000
+      internalID: 2692270653421403644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0bdb54c78cc8720800000000000000
+      internalID: 2849873100290240739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235cc11a80eed310800000000000000
+      internalID: 1431828615159108387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0151cd6e517ce79c0800000000000000
+      internalID: -3927482928139070192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b23460d52355480800000000000000
+      internalID: -8911160912564245657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_82
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82e2216a5eea4f40800000000000000
+      internalID: 5713641149217038988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 18
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a7d7a5c1bb1740800000000000000
+      internalID: 5123884463546671589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_84
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 4
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41f587a5ad494f0800000000000000
+      internalID: -822792749800549136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_85
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c4d9e883e22ec90800000000000000
+      internalID: -7142095238610465768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_86
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7459aff67b0d5350800000000000000
+      internalID: 6006970083705443453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9eb76014ff5cd10800000000000000
+      internalID: 2145401452258650617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gothic_88
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267f29ae55b61fb0800000000000000
+      internalID: -4677351744807668182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gothic_0: -6217879372532666737
+      Gothic_1: -7326464703034166322
+      Gothic_10: 7570762961580651862
+      Gothic_11: 2018715291634620666
+      Gothic_12: 4311859561355398046
+      Gothic_13: -559807122390793904
+      Gothic_14: -4336679716716677011
+      Gothic_15: 7610781826076342589
+      Gothic_16: 1459320570451279176
+      Gothic_17: 6549000482400440661
+      Gothic_18: -4809780881883619268
+      Gothic_19: 628722167180615385
+      Gothic_2: 4116550368676510979
+      Gothic_20: 911836255785026051
+      Gothic_21: -4043422614855463354
+      Gothic_22: 4350100608468265868
+      Gothic_23: 140282986205882903
+      Gothic_24: 1215828807102279634
+      Gothic_25: 2328810493290064457
+      Gothic_26: 6963581663725053862
+      Gothic_27: -6620399901879438027
+      Gothic_28: -7404306064595909475
+      Gothic_29: -2302841610193262612
+      Gothic_3: -5866111687121753296
+      Gothic_30: -7230002624988462123
+      Gothic_31: -3433589714043200358
+      Gothic_32: -7256194058192579738
+      Gothic_33: 7578076420572080703
+      Gothic_34: 7467074707086883522
+      Gothic_35: 4253952356047530689
+      Gothic_36: -9108349831330536739
+      Gothic_37: -8830223175042113976
+      Gothic_38: 7321792460990184545
+      Gothic_39: -2127749945959297477
+      Gothic_4: 131943827755143818
+      Gothic_40: -8348981816294002675
+      Gothic_41: -1533673595949142355
+      Gothic_42: -2158189867420332856
+      Gothic_43: 3363077617448570749
+      Gothic_44: -8389131472552414440
+      Gothic_45: 1676317307664833068
+      Gothic_46: 2063383947678376891
+      Gothic_47: -4010896840216623311
+      Gothic_48: -8137245157677229485
+      Gothic_49: 3670242044322615473
+      Gothic_5: -974024808552076010
+      Gothic_50: -5180743535765061659
+      Gothic_51: -4954080160388665843
+      Gothic_52: -2297327983027525779
+      Gothic_53: 235995862952634614
+      Gothic_54: 744884394442116998
+      Gothic_55: 438630921533366329
+      Gothic_56: 7418379095261902485
+      Gothic_57: -3112517381877747614
+      Gothic_58: 2143270756632842555
+      Gothic_59: 7102557470641071792
+      Gothic_6: 3206167487426226986
+      Gothic_60: 7399090735547688347
+      Gothic_61: -334848555251532304
+      Gothic_62: -1012334924966813832
+      Gothic_63: 5258880241940208614
+      Gothic_64: -8329645516692244507
+      Gothic_65: 5187184371085636821
+      Gothic_66: 2955984546255214053
+      Gothic_67: 823993833082502214
+      Gothic_68: 2594385775666842530
+      Gothic_69: 4629497764771592761
+      Gothic_7: -5169749493131416904
+      Gothic_70: -2740633552896859277
+      Gothic_71: -4675699114167322412
+      Gothic_72: -1375808987868329261
+      Gothic_73: -2571769673058641646
+      Gothic_74: -1705449700585208756
+      Gothic_75: 787867728581731749
+      Gothic_76: 8730335614530749915
+      Gothic_77: 2692270653421403644
+      Gothic_78: 2849873100290240739
+      Gothic_79: 1431828615159108387
+      Gothic_8: -2685115677303339783
+      Gothic_80: -3927482928139070192
+      Gothic_81: -8911160912564245657
+      Gothic_82: 5713641149217038988
+      Gothic_83: 5123884463546671589
+      Gothic_84: -822792749800549136
+      Gothic_85: -7142095238610465768
+      Gothic_86: 6006970083705443453
+      Gothic_87: 2145401452258650617
+      Gothic_88: -4677351744807668182
+      Gothic_9: 5759081096940443025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

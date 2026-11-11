@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 2891143fa5e45b2408c92f4253040464
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6966964856555672016
+    second: damon walk front_20261111142513-sheet_0
+  - first:
+      213: -318136941315794104
+    second: damon walk front_20261111142513-sheet_1
+  - first:
+      213: -1827329025588829065
+    second: damon walk front_20261111142513-sheet_2
+  - first:
+      213: -2648027732046534473
+    second: damon walk front_20261111142513-sheet_3
+  - first:
+      213: 2919816401799587850
+    second: damon walk front_20261111142513-sheet_4
+  - first:
+      213: -3177990158316717817
+    second: damon walk front_20261111142513-sheet_5
+  - first:
+      213: -5808686532377698960
+    second: damon walk front_20261111142513-sheet_6
+  - first:
+      213: 8003198444162334090
+    second: damon walk front_20261111142513-sheet_7
+  - first:
+      213: 5735013949054233690
+    second: damon walk front_20261111142513-sheet_8
+  - first:
+      213: 5757626743226578744
+    second: damon walk front_20261111142513-sheet_9
+  - first:
+      213: -4450089453952388108
+    second: damon walk front_20261111142513-sheet_10
+  - first:
+      213: -4622357084669763909
+    second: damon walk front_20261111142513-sheet_11
+  - first:
+      213: 8827974985805614336
+    second: damon walk front_20261111142513-sheet_12
+  - first:
+      213: -4370880768831837371
+    second: damon walk front_20261111142513-sheet_13
+  - first:
+      213: -1381187220860631954
+    second: damon walk front_20261111142513-sheet_14
+  - first:
+      213: 6770423433176606075
+    second: damon walk front_20261111142513-sheet_15
+  - first:
+      213: -4325860549314266399
+    second: damon walk front_20261111142513-sheet_16
+  - first:
+      213: 7116978529254297016
+    second: damon walk front_20261111142513-sheet_17
+  - first:
+      213: -13309534302112635
+    second: damon walk front_20261111142513-sheet_18
+  - first:
+      213: 2937732001615306877
+    second: damon walk front_20261111142513-sheet_19
+  - first:
+      213: -4299565260297612894
+    second: damon walk front_20261111142513-sheet_20
+  - first:
+      213: -3903496258364890961
+    second: damon walk front_20261111142513-sheet_21
+  - first:
+      213: -4418090336367983235
+    second: damon walk front_20261111142513-sheet_22
+  - first:
+      213: 4981769403305407903
+    second: damon walk front_20261111142513-sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1305
+        width: 212
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e6e52206e505f90800000000000000
+      internalID: -6966964856555672016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1295
+        width: 212
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b51fe2320c59bf0800000000000000
+      internalID: -318136941315794104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1290
+        width: 212
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774640ecee504a6e0800000000000000
+      internalID: -1827329025588829065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1305
+        width: 212
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8abfbbec0504bd0800000000000000
+      internalID: -2648027732046534473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1295
+        width: 212
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08af9e2c85458820800000000000000
+      internalID: 2919816401799587850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 969
+        width: 212
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70938d9e9c285e3d0800000000000000
+      internalID: -3177990158316717817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 984
+        width: 210
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1802ef56636fa0800000000000000
+      internalID: -5808686532377698960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 984
+        width: 210
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d314b0592111f60800000000000000
+      internalID: 8003198444162334090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 979
+        width: 175
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ca94f1dccd69f40800000000000000
+      internalID: 5735013949054233690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 974
+        width: 173
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373f4b840337ef40800000000000000
+      internalID: 5757626743226578744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 663
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b47e183b1e32c0800000000000000
+      internalID: -4450089453952388108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 658
+        width: 172
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9f37c8b61adfb0800000000000000
+      internalID: -4622357084669763909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 653
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4afa1a74438a70800000000000000
+      internalID: 8827974985805614336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 663
+        width: 173
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b213249138753c0800000000000000
+      internalID: -4370880768831837371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 663
+        width: 170
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640b4c5a8905dce0800000000000000
+      internalID: -1381187220860631954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 342
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75e871cd3065fd50800000000000000
+      internalID: 6770423433176606075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 342
+        width: 177
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea3f32ffb477f3c0800000000000000
+      internalID: -4325860549314266399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 332
+        width: 177
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc846d34694c260800000000000000
+      internalID: 7116978529254297016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 327
+        width: 177
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584fbcf8c07b0dff0800000000000000
+      internalID: -13309534302112635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 342
+        width: 177
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e391d0bbe4c820800000000000000
+      internalID: 2937732001615306877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 177
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d9530d20e454c0800000000000000
+      internalID: -4299565260297612894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 177
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0281aa5def3d9c0800000000000000
+      internalID: -3903496258364890961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 21
+        width: 175
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7543334f3acfa2c0800000000000000
+      internalID: -4418090336367983235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 21
+        width: 175
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95bde4b0ecc22540800000000000000
+      internalID: 4981769403305407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damon walk front_20261111142513-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 796
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b5103abe75f2429d19a2c13fb14ab
+      internalID: -1322476409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d732d4ec41c57c4ab18a7a0a54cbe2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      damon walk front_20261111142513-sheet_0: -6966964856555672016
+      damon walk front_20261111142513-sheet_1: -318136941315794104
+      damon walk front_20261111142513-sheet_10: -4450089453952388108
+      damon walk front_20261111142513-sheet_11: -4622357084669763909
+      damon walk front_20261111142513-sheet_12: 8827974985805614336
+      damon walk front_20261111142513-sheet_13: -4370880768831837371
+      damon walk front_20261111142513-sheet_14: -1381187220860631954
+      damon walk front_20261111142513-sheet_15: 6770423433176606075
+      damon walk front_20261111142513-sheet_16: -4325860549314266399
+      damon walk front_20261111142513-sheet_17: 7116978529254297016
+      damon walk front_20261111142513-sheet_18: -13309534302112635
+      damon walk front_20261111142513-sheet_19: 2937732001615306877
+      damon walk front_20261111142513-sheet_2: -1827329025588829065
+      damon walk front_20261111142513-sheet_20: -4299565260297612894
+      damon walk front_20261111142513-sheet_21: -3903496258364890961
+      damon walk front_20261111142513-sheet_22: -4418090336367983235
+      damon walk front_20261111142513-sheet_23: 4981769403305407903
+      damon walk front_20261111142513-sheet_24: -1322476409
+      damon walk front_20261111142513-sheet_3: -2648027732046534473
+      damon walk front_20261111142513-sheet_4: 2919816401799587850
+      damon walk front_20261111142513-sheet_5: -3177990158316717817
+      damon walk front_20261111142513-sheet_6: -5808686532377698960
+      damon walk front_20261111142513-sheet_7: 8003198444162334090
+      damon walk front_20261111142513-sheet_8: 5735013949054233690
+      damon walk front_20261111142513-sheet_9: 5757626743226578744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

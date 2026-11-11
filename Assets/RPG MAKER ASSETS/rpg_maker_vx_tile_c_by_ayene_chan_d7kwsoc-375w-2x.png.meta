@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 1e5f8398335fd3f4b8af72d604d14268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5429583217102262466
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_0
+  - first:
+      213: -1889144813116955134
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_1
+  - first:
+      213: -3773322773901451994
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_2
+  - first:
+      213: -1214569579378745796
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_3
+  - first:
+      213: 8135745306481354727
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_4
+  - first:
+      213: -1444482391900012002
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_5
+  - first:
+      213: -7522934438558498781
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_6
+  - first:
+      213: 1726108745005555545
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_7
+  - first:
+      213: -878961361928029937
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_8
+  - first:
+      213: -8495333353127853809
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_9
+  - first:
+      213: 7785944785297305931
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_10
+  - first:
+      213: 186977013379728404
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_11
+  - first:
+      213: 1344052899877175353
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_12
+  - first:
+      213: -2394379835884585449
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_13
+  - first:
+      213: 5062214810416229069
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_14
+  - first:
+      213: 2023447085474556782
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_15
+  - first:
+      213: -8138061506430354970
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_16
+  - first:
+      213: 9029638121494011830
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_17
+  - first:
+      213: -5682599227607645630
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_18
+  - first:
+      213: 8548669295973762434
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_19
+  - first:
+      213: 8107806395133179562
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_20
+  - first:
+      213: 3508888056712360426
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_21
+  - first:
+      213: 2503624599161431862
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_22
+  - first:
+      213: -7182534702267297672
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_23
+  - first:
+      213: 171801585772366343
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_24
+  - first:
+      213: 1608243256728447480
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_25
+  - first:
+      213: -6661247496238694071
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_26
+  - first:
+      213: -3492903230408936618
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_27
+  - first:
+      213: 9097531865159330824
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_28
+  - first:
+      213: -1067674264820805751
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_29
+  - first:
+      213: 7963431405939095797
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_30
+  - first:
+      213: -1596872001822410916
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_31
+  - first:
+      213: -6013713160691759030
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_32
+  - first:
+      213: 2312180792075697818
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_33
+  - first:
+      213: -4912363506452883084
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_34
+  - first:
+      213: -6969676946855741918
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_35
+  - first:
+      213: 4693406221068927991
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_36
+  - first:
+      213: -4984054412643340069
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_37
+  - first:
+      213: -3957581158747799505
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_38
+  - first:
+      213: 8140274492126332007
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_39
+  - first:
+      213: -1511072399435587662
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_40
+  - first:
+      213: -653481528830967465
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_41
+  - first:
+      213: 2440932095619140809
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_42
+  - first:
+      213: 6609550246511734178
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_43
+  - first:
+      213: -6683256627542906420
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_44
+  - first:
+      213: 2296874574582474960
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_45
+  - first:
+      213: -8611855498999377032
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_46
+  - first:
+      213: 5523834326222141098
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_47
+  - first:
+      213: 9073510992770907441
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_48
+  - first:
+      213: 343375235122533801
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_49
+  - first:
+      213: -5725758200384723131
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_50
+  - first:
+      213: -5711642660079753801
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_51
+  - first:
+      213: -3123328667527403774
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_52
+  - first:
+      213: -6893085349186297518
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_53
+  - first:
+      213: 6745749786086943285
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_54
+  - first:
+      213: 7578547845833267256
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_55
+  - first:
+      213: -8084270137023539959
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_56
+  - first:
+      213: 3284334417509422155
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_57
+  - first:
+      213: -8475717615865989619
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_58
+  - first:
+      213: -9045767365212307711
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_59
+  - first:
+      213: 1089632863167538990
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_60
+  - first:
+      213: 463773763105700856
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_61
+  - first:
+      213: -451156906805308230
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_62
+  - first:
+      213: 3375352495964352453
+    second: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 468
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09dc53b21c95b40800000000000000
+      internalID: 5429583217102262466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 465
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20664e43dc868c5e0800000000000000
+      internalID: -1889144813116955134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d56b6dde672abc0800000000000000
+      internalID: -3773322773901451994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 465
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e5222176bf42fe0800000000000000
+      internalID: -1214569579378745796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 468
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76fdf4049f7e070800000000000000
+      internalID: 8135745306481354727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 465
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124e72faea24fbe0800000000000000
+      internalID: -1444482391900012002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 461
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3200b218cfa299790800000000000000
+      internalID: -7522934438558498781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 459
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f50cd12ce54f710800000000000000
+      internalID: 1726108745005555545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 483
+        width: 257
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f097cfa5c4d4dc3f0800000000000000
+      internalID: -878961361928029937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 512
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01494653538a1a80800000000000000
+      internalID: -8495333353127853809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b417370d78b3d0c60800000000000000
+      internalID: 7785944785297305931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 25
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41489af5a96489200800000000000000
+      internalID: 186977013379728404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 26
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304388cdf807a210800000000000000
+      internalID: 1344052899877175353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ebdb8a93475ced0800000000000000
+      internalID: -2394379835884585449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa49f9c89904640800000000000000
+      internalID: 5062214810416229069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba28f476ab41c10800000000000000
+      internalID: 2023447085474556782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e930fc5d2ccf0f80800000000000000
+      internalID: -8138061506430354970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd9f9c708bf4d70800000000000000
+      internalID: 9029638121494011830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24289853c1a5321b0800000000000000
+      internalID: -5682599227607645630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2850ec09e69f2a670800000000000000
+      internalID: 8548669295973762434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6bd8995f6b48070800000000000000
+      internalID: 8107806395133179562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae173f0c81312b030800000000000000
+      internalID: 3508888056712360426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 159
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63762f3ee49aeb220800000000000000
+      internalID: 2503624599161431862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 159
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87011743eb2825c90800000000000000
+      internalID: -7182534702267297672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8fcbc1ac526200800000000000000
+      internalID: 171801585772366343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 159
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f967bd98b0a15610800000000000000
+      internalID: 1608243256728447480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9418bb9e1be7e83a0800000000000000
+      internalID: -6661247496238694071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65339a4a407b68fc0800000000000000
+      internalID: -3492903230408936618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6e93d70de04e70800000000000000
+      internalID: 9097531865159330824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f8785b9ebde21f0800000000000000
+      internalID: -1067674264820805751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87030fbaac38e60800000000000000
+      internalID: 7963431405939095797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 127
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bb9bff55c6d9e0800000000000000
+      internalID: -1596872001822410916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4840eb0ebffa8ca0800000000000000
+      internalID: -6013713160691759030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 127
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e37201e24861020800000000000000
+      internalID: 2312180792075697818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479984eea67c3dbb0800000000000000
+      internalID: -4912363506452883084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 73
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263f676ebbb64f90800000000000000
+      internalID: -6969676946855741918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f30c616714522140800000000000000
+      internalID: 4693406221068927991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0fc291be415dab0800000000000000
+      internalID: -4984054412643340069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 73
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f200f0f77e8d319c0800000000000000
+      internalID: -3957581158747799505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 99
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7640d55858018f070800000000000000
+      internalID: 8140274492126332007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 99
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf9eb1a8a7970be0800000000000000
+      internalID: -1511072399435587662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75140c6030e5ee6f0800000000000000
+      internalID: -653481528830967465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8a30feceefd120800000000000000
+      internalID: 2440932095619140809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad6d682ee6d9bb50800000000000000
+      internalID: 6609550246511734178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a784b18d4043a0800000000000000
+      internalID: -6683256627542906420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86d97914320ef10800000000000000
+      internalID: 2296874574582474960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 67
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873d52d1d0b8c7880800000000000000
+      internalID: -8611855498999377032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 67
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6749c9d0a98ac40800000000000000
+      internalID: 5523834326222141098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 67
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d36b5ac269bed70800000000000000
+      internalID: 9073510992770907441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 65
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5152205f9e3c400800000000000000
+      internalID: 343375235122533801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e94cc0450a80b0800000000000000
+      internalID: -5725758200384723131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5aaf1234b2cb0b0800000000000000
+      internalID: -5711642660079753801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2072c3fff15b7a4d0800000000000000
+      internalID: -3123328667527403774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512d436567d650a0800000000000000
+      internalID: -6893085349186297518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a216f90b7bd9d50800000000000000
+      internalID: 6745749786086943285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389138ec196c2960800000000000000
+      internalID: 7578547845833267256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d9668427eecf80800000000000000
+      internalID: -8084270137023539959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 158
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441d3760cc449d20800000000000000
+      internalID: 3284334417509422155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0679c11cb3306a80800000000000000
+      internalID: -8475717615865989619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff2b3028af67280800000000000000
+      internalID: -9045767365212307711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2761b0e0572f1f00800000000000000
+      internalID: 1089632863167538990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbbf06c7c7af6600800000000000000
+      internalID: 463773763105700856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4d7effe2b2db9f0800000000000000
+      internalID: -451156906805308230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfeea13639a7de20800000000000000
+      internalID: 3375352495964352453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_0: 5429583217102262466
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_1: -1889144813116955134
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_10: 7785944785297305931
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_11: 186977013379728404
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_12: 1344052899877175353
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_13: -2394379835884585449
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_14: 5062214810416229069
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_15: 2023447085474556782
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_16: -8138061506430354970
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_17: 9029638121494011830
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_18: -5682599227607645630
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_19: 8548669295973762434
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_2: -3773322773901451994
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_20: 8107806395133179562
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_21: 3508888056712360426
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_22: 2503624599161431862
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_23: -7182534702267297672
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_24: 171801585772366343
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_25: 1608243256728447480
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_26: -6661247496238694071
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_27: -3492903230408936618
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_28: 9097531865159330824
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_29: -1067674264820805751
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_3: -1214569579378745796
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_30: 7963431405939095797
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_31: -1596872001822410916
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_32: -6013713160691759030
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_33: 2312180792075697818
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_34: -4912363506452883084
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_35: -6969676946855741918
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_36: 4693406221068927991
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_37: -4984054412643340069
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_38: -3957581158747799505
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_39: 8140274492126332007
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_4: 8135745306481354727
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_40: -1511072399435587662
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_41: -653481528830967465
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_42: 2440932095619140809
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_43: 6609550246511734178
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_44: -6683256627542906420
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_45: 2296874574582474960
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_46: -8611855498999377032
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_47: 5523834326222141098
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_48: 9073510992770907441
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_49: 343375235122533801
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_5: -1444482391900012002
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_50: -5725758200384723131
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_51: -5711642660079753801
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_52: -3123328667527403774
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_53: -6893085349186297518
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_54: 6745749786086943285
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_55: 7578547845833267256
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_56: -8084270137023539959
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_57: 3284334417509422155
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_58: -8475717615865989619
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_59: -9045767365212307711
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_6: -7522934438558498781
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_60: 1089632863167538990
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_61: 463773763105700856
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_62: -451156906805308230
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_63: 3375352495964352453
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_7: 1726108745005555545
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_8: -878961361928029937
+      rpg_maker_vx_tile_c_by_ayene_chan_d7kwsoc-375w-2x_9: -8495333353127853809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

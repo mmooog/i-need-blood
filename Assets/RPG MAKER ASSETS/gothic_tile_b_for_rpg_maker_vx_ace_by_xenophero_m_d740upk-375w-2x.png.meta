@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: 988f210aeb8f6a54bb6ac71ffc0e55c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6229439560731646379
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_0
+  - first:
+      213: -5917672116066652670
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_1
+  - first:
+      213: 7720360183087307576
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_2
+  - first:
+      213: -8161082510491911207
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_3
+  - first:
+      213: -8752813412228196975
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_4
+  - first:
+      213: 7052166466500760607
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_5
+  - first:
+      213: -8911291076802025644
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_6
+  - first:
+      213: -8246136136494668754
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_7
+  - first:
+      213: 7047309579074628269
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_8
+  - first:
+      213: -7255246215314899811
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_9
+  - first:
+      213: 5220500770538823245
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_10
+  - first:
+      213: -1614683252574512108
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_11
+  - first:
+      213: 173600632022825152
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_12
+  - first:
+      213: -6335463628753096988
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_13
+  - first:
+      213: 4557339141374660559
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_14
+  - first:
+      213: 6282620341413241015
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_15
+  - first:
+      213: 4321668670078173934
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_16
+  - first:
+      213: 5752833802933488938
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_17
+  - first:
+      213: -1708009150026551563
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_18
+  - first:
+      213: 4318928008030785685
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_19
+  - first:
+      213: -9202635717863979344
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_20
+  - first:
+      213: -344424884310513745
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_21
+  - first:
+      213: -9191603045857289402
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_22
+  - first:
+      213: -2532642839616515770
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_23
+  - first:
+      213: 7127631457639524071
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_24
+  - first:
+      213: -1146536945952225409
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_25
+  - first:
+      213: 3127697481585153675
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_26
+  - first:
+      213: 3581587795813820756
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_27
+  - first:
+      213: 4737030293427396312
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_28
+  - first:
+      213: -8980846952698425039
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_29
+  - first:
+      213: 8647626635722595685
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_30
+  - first:
+      213: -7016740895312081063
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_31
+  - first:
+      213: 228591544049875346
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_32
+  - first:
+      213: 1076843724909425253
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_33
+  - first:
+      213: -5340139546354270924
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_34
+  - first:
+      213: 3581003145199379545
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_35
+  - first:
+      213: 5498717195587376586
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_36
+  - first:
+      213: 456310226819849143
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_37
+  - first:
+      213: 8508988498907929580
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_38
+  - first:
+      213: 6579642013605734267
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_39
+  - first:
+      213: 7249554862922028510
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_40
+  - first:
+      213: -8808341875532098224
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_41
+  - first:
+      213: 304722501327680869
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_42
+  - first:
+      213: -6718269869588117264
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_43
+  - first:
+      213: -7002850062429344911
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_44
+  - first:
+      213: 5160964181906186059
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_45
+  - first:
+      213: 4061410308778800629
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_46
+  - first:
+      213: 6308420489110506187
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_47
+  - first:
+      213: 648910227054930019
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_48
+  - first:
+      213: -2547334335142989627
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_49
+  - first:
+      213: -2064270104405334068
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_50
+  - first:
+      213: -6349063201458487732
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_51
+  - first:
+      213: 8294122766367258342
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_52
+  - first:
+      213: 8437990554557774937
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_53
+  - first:
+      213: 9184954687763412355
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_54
+  - first:
+      213: 6952274110260085170
+    second: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 415
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55623d879b59c89a0800000000000000
+      internalID: -6229439560731646379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 450
+        width: 6
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eec98409430eda0800000000000000
+      internalID: -5917672116066652670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 454
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b1dfaaeaa342b60800000000000000
+      internalID: 7720360183087307576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 6
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf97b22b20ebe80800000000000000
+      internalID: -8161082510491911207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 453
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951dd27392c78680800000000000000
+      internalID: -8752813412228196975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1413bc89045ed160800000000000000
+      internalID: 7052166466500760607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576b1dcafbb45480800000000000000
+      internalID: -8911291076802025644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 448
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2429beafd6df8d80800000000000000
+      internalID: -8246136136494668754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa63f259b21dc160800000000000000
+      internalID: 7047309579074628269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 350
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c7822d100305b90800000000000000
+      internalID: -7255246215314899811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 342
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9e999ac1f27840800000000000000
+      internalID: 5220500770538823245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 355
+        width: 6
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1681032e7799e0800000000000000
+      internalID: -1614683252574512108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 367
+        width: 33
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f084ead0c86200800000000000000
+      internalID: 173600632022825152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 355
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea3c87569e318a0800000000000000
+      internalID: -6335463628753096988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 377
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfce92adcbee3f30800000000000000
+      internalID: 4557339141374660559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0649ce9e9503750800000000000000
+      internalID: 6282620341413241015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 321
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c1fc12c6a9fb30800000000000000
+      internalID: 4321668670078173934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 319
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc5bb2ddb26df40800000000000000
+      internalID: 5752833802933488938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 319
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feec8b3abeeb48e0800000000000000
+      internalID: -1708009150026551563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 319
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5901921042aefeb30800000000000000
+      internalID: 4318928008030785685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6456f729ba94080800000000000000
+      internalID: -9202635717863979344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7edde746b583bf0800000000000000
+      internalID: -344424884310513745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b174f9abdd07080800000000000000
+      internalID: -9191603045857289402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 270
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64198b181ce3adcd0800000000000000
+      internalID: -2532642839616515770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 223
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6e0820c0f6ae260800000000000000
+      internalID: 7127631457639524071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 253
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7708a6e8bea610f0800000000000000
+      internalID: -1146536945952225409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 255
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8654cac940d76b20800000000000000
+      internalID: 3127697481585153675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4596b5dcf1b54b130800000000000000
+      internalID: 3581587795813820756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de110a34ff4db140800000000000000
+      internalID: 4737030293427396312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 191
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d242774f9d5380800000000000000
+      internalID: -8980846952698425039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d937cab9a820870800000000000000
+      internalID: 8647626635722595685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 222
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f87fdf4578f9e90800000000000000
+      internalID: -7016740895312081063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29930c55cce1c2300800000000000000
+      internalID: 228591544049875346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 226
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b5d599a7b1fe00800000000000000
+      internalID: 1076843724909425253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 225
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db988306304e5b0800000000000000
+      internalID: -5340139546354270924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9546a29336742b130800000000000000
+      internalID: 3581003145199379545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5515be72e5f4c40800000000000000
+      internalID: 5498717195587376586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb99f0dbb3255600800000000000000
+      internalID: 456310226819849143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 195
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb9a4b05fff51670800000000000000
+      internalID: 8508988498907929580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77a43a0d859f4b50800000000000000
+      internalID: 6579642013605734267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 107
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55c20fcb79b9460800000000000000
+      internalID: 7249554862922028510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 107
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05516b89bbb72c580800000000000000
+      internalID: -8808341875532098224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 70
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56574be10879a3400800000000000000
+      internalID: 304722501327680869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88df50629e3c2a0800000000000000
+      internalID: -6718269869588117264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 64
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba39d88f0e0de90800000000000000
+      internalID: -7002850062429344911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 34
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5809549d6f9740800000000000000
+      internalID: 5160964181906186059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 20
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5bed558270d5830800000000000000
+      internalID: 4061410308778800629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca4a3be2030c8750800000000000000
+      internalID: 6308420489110506187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682ab6d964610900800000000000000
+      internalID: 648910227054930019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c075a52bec06acd0800000000000000
+      internalID: -2547334335142989627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7267ae64d3a53e0800000000000000
+      internalID: -2064270104405334068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 35
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eff8438a893e7a0800000000000000
+      internalID: -6349063201458487732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 34
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6fccc36b4aa1370800000000000000
+      internalID: 8294122766367258342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c7486f3b3c91570800000000000000
+      internalID: 8437990554557774937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857232ef93877f70800000000000000
+      internalID: 9184954687763412355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18233f7707b7060800000000000000
+      internalID: 6952274110260085170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_0: -6229439560731646379
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_1: -5917672116066652670
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_10: 5220500770538823245
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_11: -1614683252574512108
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_12: 173600632022825152
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_13: -6335463628753096988
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_14: 4557339141374660559
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_15: 6282620341413241015
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_16: 4321668670078173934
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_17: 5752833802933488938
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_18: -1708009150026551563
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_19: 4318928008030785685
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_2: 7720360183087307576
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_20: -9202635717863979344
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_21: -344424884310513745
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_22: -9191603045857289402
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_23: -2532642839616515770
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_24: 7127631457639524071
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_25: -1146536945952225409
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_26: 3127697481585153675
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_27: 3581587795813820756
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_28: 4737030293427396312
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_29: -8980846952698425039
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_3: -8161082510491911207
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_30: 8647626635722595685
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_31: -7016740895312081063
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_32: 228591544049875346
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_33: 1076843724909425253
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_34: -5340139546354270924
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_35: 3581003145199379545
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_36: 5498717195587376586
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_37: 456310226819849143
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_38: 8508988498907929580
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_39: 6579642013605734267
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_4: -8752813412228196975
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_40: 7249554862922028510
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_41: -8808341875532098224
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_42: 304722501327680869
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_43: -6718269869588117264
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_44: -7002850062429344911
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_45: 5160964181906186059
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_46: 4061410308778800629
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_47: 6308420489110506187
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_48: 648910227054930019
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_49: -2547334335142989627
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_5: 7052166466500760607
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_50: -2064270104405334068
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_51: -6349063201458487732
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_52: 8294122766367258342
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_53: 8437990554557774937
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_54: 9184954687763412355
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_55: 6952274110260085170
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_6: -8911291076802025644
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_7: -8246136136494668754
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_8: 7047309579074628269
+      gothic_tile_b_for_rpg_maker_vx_ace_by_xenophero_m_d740upk-375w-2x_9: -7255246215314899811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
