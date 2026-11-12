@@ -379,11 +379,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      BLEFT FLOOR: -137809546
       BORDERA: -986785810
+      BRIGHTFLOOR: 1045489090
       BTM LEFT WALL: 106764226
       BTM RIGHT WALL: -1191386162
+      TOLEFT FLOOR: 1727780123
       TOP LEFT WALL: 1961592354
       TOP RIGHT WALL: -1196740443
+      TORIGHT FLOOR: -6222105
       bottom left wall: -1356832840
       bottom right wall: 593137559
       left down: -712126122
