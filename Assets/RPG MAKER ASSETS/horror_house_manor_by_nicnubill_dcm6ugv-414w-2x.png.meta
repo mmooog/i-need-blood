@@ -273,7 +273,7 @@ TextureImporter:
         width: 96
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,6 +282,28 @@ TextureImporter:
       bones: []
       spriteID: 5d2410a6132b8c444b01bbe508d4ebad
       internalID: 1823666628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horror_house_manor_by_nicnubill_dcm6ugv-414w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 144
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8938b18768bb4498cb605c0942be2
+      internalID: -1785419120
       vertices: []
       indices: 
       edges: []
@@ -308,6 +330,7 @@ TextureImporter:
       horror_house_manor_by_nicnubill_dcm6ugv-414w-2x_5: 643847873
       horror_house_manor_by_nicnubill_dcm6ugv-414w-2x_6: -529867743
       horror_house_manor_by_nicnubill_dcm6ugv-414w-2x_7: 1823666628
+      horror_house_manor_by_nicnubill_dcm6ugv-414w-2x_8: -1785419120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
