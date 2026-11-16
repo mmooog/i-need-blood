@@ -1435,7 +1435,6 @@ GameObject:
   - component: {fileID: 391364327}
   - component: {fileID: 391364326}
   - component: {fileID: 391364325}
-  - component: {fileID: 391364334}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1484,8 +1483,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 66.33334
-    y: 70.00001
+    x: 65.66669
+    y: 70.666664
     width: 110.17708
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -1509,7 +1508,6 @@ MonoBehaviour:
   - {fileID: 391364327}
   - {fileID: 391364326}
   - {fileID: 391364325}
-  - {fileID: 391364334}
   suppressAllAutoSelections: 0
 --- !u!114 &391364318
 MonoBehaviour:
@@ -1535,7 +1533,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 391364317}
   selectedCommands: []
   variables: []
   description: 
@@ -1931,26 +1930,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364334
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.FadeScreen
-  itemId: 15
-  indentLevel: 0
-  duration: 0.5
-  targetAlpha: 1
-  waitUntilFinished: 1
-  fadeColor: {r: 0, g: 0, b: 0, a: 1}
-  fadeTexture: {fileID: 0}
-  fadeTweenType: 4
 --- !u!1 &408596556
 GameObject:
   m_ObjectHideFlags: 0

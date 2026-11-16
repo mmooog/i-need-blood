@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 6670527fc0f49174691b706ba056d4e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4204034755687479401
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_0
+  - first:
+      213: 696997002418869667
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_1
+  - first:
+      213: -715625119229789291
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_2
+  - first:
+      213: -6423455719103013015
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_3
+  - first:
+      213: -7505586367392338178
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_4
+  - first:
+      213: 7277167635455226576
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_5
+  - first:
+      213: -5462389802265240459
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_6
+  - first:
+      213: -7895134979619622629
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_7
+  - first:
+      213: -8635764758629870613
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_8
+  - first:
+      213: -4054107694235957022
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_9
+  - first:
+      213: -7667731431155653162
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_10
+  - first:
+      213: -6451021567877670602
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_11
+  - first:
+      213: -4082045247826022952
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_12
+  - first:
+      213: -1105464190075139515
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_13
+  - first:
+      213: 7410560053464409127
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_14
+  - first:
+      213: -2402610936938848319
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_15
+  - first:
+      213: -2100826004380934432
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_16
+  - first:
+      213: 5629157490391525693
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_17
+  - first:
+      213: 4288316685422950385
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_18
+  - first:
+      213: 8199404083790823266
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_19
+  - first:
+      213: 1885116149866700428
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_20
+  - first:
+      213: 6120181927179704044
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_21
+  - first:
+      213: -6246774699908276932
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_22
+  - first:
+      213: 5117347446411326854
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_23
+  - first:
+      213: -5926308411902512191
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_24
+  - first:
+      213: -5640542796735832999
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_25
+  - first:
+      213: -2407099333703631737
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_26
+  - first:
+      213: -5259775694400023288
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_27
+  - first:
+      213: -616427554107898794
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_28
+  - first:
+      213: -7706897409863995186
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_29
+  - first:
+      213: 1767329461832581658
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_30
+  - first:
+      213: 863599090305565978
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_31
+  - first:
+      213: -8376469276653927420
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_32
+  - first:
+      213: 2983916357750854963
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_33
+  - first:
+      213: 636010963041179809
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_34
+  - first:
+      213: -3838768300069934372
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_35
+  - first:
+      213: 6587800132142840613
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_36
+  - first:
+      213: -6000334057444971114
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_37
+  - first:
+      213: -2676090471779152196
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_38
+  - first:
+      213: -7340238618267310514
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_39
+  - first:
+      213: -1552078106082718837
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_40
+  - first:
+      213: 9201362025478366603
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_41
+  - first:
+      213: -6820210795832629287
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_42
+  - first:
+      213: 5980285541482677247
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_43
+  - first:
+      213: 1466517072648362161
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_44
+  - first:
+      213: 42850828123713068
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_45
+  - first:
+      213: 8119860146430332130
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_46
+  - first:
+      213: 3485481866537767244
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_47
+  - first:
+      213: -6029819937522585354
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_48
+  - first:
+      213: -541208405879585043
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_49
+  - first:
+      213: 4817094004881603349
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_50
+  - first:
+      213: -5292782107650290685
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_51
+  - first:
+      213: -2921613655327508715
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_52
+  - first:
+      213: 8503618076649906069
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_53
+  - first:
+      213: 2897441225078585176
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_54
+  - first:
+      213: 654798471455125350
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_55
+  - first:
+      213: -51201778727757750
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_56
+  - first:
+      213: -3771578703995379988
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_57
+  - first:
+      213: 8879892825934713802
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_58
+  - first:
+      213: -3947043733896265017
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_59
+  - first:
+      213: -1620912721381522655
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_60
+  - first:
+      213: 6394659771765649551
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_61
+  - first:
+      213: 4515218896867890647
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_62
+  - first:
+      213: -7941939593479585985
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_63
+  - first:
+      213: 1791739733063971233
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_64
+  - first:
+      213: 3439588752250514435
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_65
+  - first:
+      213: 1611240662306761900
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_66
+  - first:
+      213: -4985918041800373099
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_67
+  - first:
+      213: -5949645813860311898
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_68
+  - first:
+      213: 6234752803003153203
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_69
+  - first:
+      213: -8640231505204767805
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_70
+  - first:
+      213: -7167895775916474357
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_71
+  - first:
+      213: 5231730245116851283
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_72
+  - first:
+      213: 667822105455808011
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_73
+  - first:
+      213: 2507974019739811500
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_74
+  - first:
+      213: -551915657005565413
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_75
+  - first:
+      213: 9067099533855932067
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_76
+  - first:
+      213: -5114159641415158164
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_77
+  - first:
+      213: 7760331919283682351
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_78
+  - first:
+      213: 7382654758396375844
+    second: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 672
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f52c165bb75a30800000000000000
+      internalID: 4204034755687479401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a550b2b41b3ca900800000000000000
+      internalID: 696997002418869667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b36ffdeb69116f0800000000000000
+      internalID: -715625119229789291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd9607e0d4bd6a0800000000000000
+      internalID: -6423455719103013015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea09417fcc6d790800000000000000
+      internalID: -7505586367392338178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2374a8861bdf460800000000000000
+      internalID: 7277167635455226576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c93437a61b134b0800000000000000
+      internalID: -5462389802265240459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 672
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f206f098de6290800000000000000
+      internalID: -7895134979619622629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 624
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3970ec4b9972880800000000000000
+      internalID: -8635764758629870613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e843eb188aecb7c0800000000000000
+      internalID: -4054107694235957022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5aed483eeb69590800000000000000
+      internalID: -7667731431155653162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6399440201e5976a0800000000000000
+      internalID: -6451021567877670602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd22468979a957c0800000000000000
+      internalID: -4082045247826022952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a08a61d2a98a0f0800000000000000
+      internalID: -1105464190075139515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72422751b1997d660800000000000000
+      internalID: 7410560053464409127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 624
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9a4a151638aed0800000000000000
+      internalID: -2402610936938848319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 576
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee98f131ed58d2e0800000000000000
+      internalID: -2100826004380934432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d392487b9e8ce1e40800000000000000
+      internalID: 5629157490391525693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f30f0e49238b30800000000000000
+      internalID: 4288316685422950385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f3d3862922ac170800000000000000
+      internalID: 8199404083790823266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e18298627492a10800000000000000
+      internalID: 1885116149866700428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6df4269014fe450800000000000000
+      internalID: 6120181927179704044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd11cd18ffe49a0800000000000000
+      internalID: -6246774699908276932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 576
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685799fb368740740800000000000000
+      internalID: 5117347446411326854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 528
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33427f5e581cda0800000000000000
+      internalID: -5926308411902512191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1c241634c8b1b0800000000000000
+      internalID: -5640542796735832999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf38bc8e3489ed0800000000000000
+      internalID: -2407099333703631737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059d099fd58107b0800000000000000
+      internalID: -5259775694400023288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c2afc7620277f0800000000000000
+      internalID: -616427554107898794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0bdac73a99b0590800000000000000
+      internalID: -7706897409863995186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a120d9528c0d68810800000000000000
+      internalID: 1767329461832581658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 528
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15830e0cce1cfb00800000000000000
+      internalID: 863599090305565978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 480
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c115c29dc0cb80800000000000000
+      internalID: -8376469276653927420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335973f2e10096920800000000000000
+      internalID: 2983916357750854963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 432
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d255e99093d800800000000000000
+      internalID: 636010963041179809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2d4bd194f9bac0800000000000000
+      internalID: -3838768300069934372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b35a701519c6b50800000000000000
+      internalID: 6587800132142840613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d605447f78abca0800000000000000
+      internalID: -6000334057444971114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecbcaf4ed9cdad0800000000000000
+      internalID: -2676090471779152196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a29feddb322a90800000000000000
+      internalID: -7340238618267310514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 480
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b474f8f29e57ae0800000000000000
+      internalID: -1552078106082718837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 432
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852862e20ec1bf70800000000000000
+      internalID: 9201362025478366603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ac1d8a6eb951a0800000000000000
+      internalID: -6820210795832629287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ca7bd30e3ef250800000000000000
+      internalID: 5980285541482677247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85044f18d1a5410800000000000000
+      internalID: 1466517072648362161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e25a4e99c389000800000000000000
+      internalID: 42850828123713068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc4d548c98fa070800000000000000
+      internalID: 8119860146430332130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419c0e6a4bee5030800000000000000
+      internalID: 3485481866537767244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f564d6b6c15ca0800000000000000
+      internalID: -6029819937522585354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6871282dd3d78f0800000000000000
+      internalID: -541208405879585043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb1a2b971c9d240800000000000000
+      internalID: 4817094004881603349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c06f727b24c86b0800000000000000
+      internalID: -5292782107650290685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f54f1cd75477d0800000000000000
+      internalID: -2921613655327508715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fde4c269be20670800000000000000
+      internalID: 8503618076649906069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b1626177c53820800000000000000
+      internalID: 2897441225078585176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2d829dbf461900800000000000000
+      internalID: 654798471455125350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a485017e0481a4ff0800000000000000
+      internalID: -51201778727757750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5de1c629a8abc0800000000000000
+      internalID: -3771578703995379988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d06d3a77bb3b70800000000000000
+      internalID: 8879892825934713802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28e28e2a84939c0800000000000000
+      internalID: -3947043733896265017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238426c77c5189e0800000000000000
+      internalID: -1620912721381522655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80729b9e256eb850800000000000000
+      internalID: 6394659771765649551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d511fef9a749ae30800000000000000
+      internalID: 4515218896867890647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 336
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff907940098c190800000000000000
+      internalID: -7941939593479585985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 288
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a13b3f4bc98dd810800000000000000
+      internalID: 1791739733063971233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c22571fbfdbbf20800000000000000
+      internalID: 3439588752250514435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caca57c78d64c5610800000000000000
+      internalID: 1611240662306761900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c074f15f57ecab0800000000000000
+      internalID: -4985918041800373099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac5775a7ac9e6da0800000000000000
+      internalID: -5949645813860311898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_69
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bbf5524aa468650800000000000000
+      internalID: 6234752803003153203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39123593bb71880800000000000000
+      internalID: -8640231505204767805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_71
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c979d4c4868c90800000000000000
+      internalID: -7167895775916474357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 240
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3547bd460f6da9840800000000000000
+      internalID: 5231730245116851283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec8d8aaa4944900800000000000000
+      internalID: 667822105455808011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeff78451d1ec220800000000000000
+      internalID: 2507974019739811500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af43652a33758f0800000000000000
+      internalID: -551915657005565413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeb79a8cfec4dd70800000000000000
+      internalID: 9067099533855932067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667fc0f6ead609b0800000000000000
+      internalID: -5114159641415158164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c770cb3cc32bb60800000000000000
+      internalID: 7760331919283682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42330954365747660800000000000000
+      internalID: 7382654758396375844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_0: 4204034755687479401
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_1: 696997002418869667
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_10: -7667731431155653162
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_11: -6451021567877670602
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_12: -4082045247826022952
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_13: -1105464190075139515
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_14: 7410560053464409127
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_15: -2402610936938848319
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_16: -2100826004380934432
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_17: 5629157490391525693
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_18: 4288316685422950385
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_19: 8199404083790823266
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_2: -715625119229789291
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_20: 1885116149866700428
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_21: 6120181927179704044
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_22: -6246774699908276932
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_23: 5117347446411326854
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_24: -5926308411902512191
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_25: -5640542796735832999
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_26: -2407099333703631737
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_27: -5259775694400023288
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_28: -616427554107898794
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_29: -7706897409863995186
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_3: -6423455719103013015
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_30: 1767329461832581658
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_31: 863599090305565978
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_32: -8376469276653927420
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_33: 2983916357750854963
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_34: 636010963041179809
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_35: -3838768300069934372
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_36: 6587800132142840613
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_37: -6000334057444971114
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_38: -2676090471779152196
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_39: -7340238618267310514
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_4: -7505586367392338178
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_40: -1552078106082718837
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_41: 9201362025478366603
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_42: -6820210795832629287
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_43: 5980285541482677247
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_44: 1466517072648362161
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_45: 42850828123713068
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_46: 8119860146430332130
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_47: 3485481866537767244
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_48: -6029819937522585354
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_49: -541208405879585043
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_5: 7277167635455226576
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_50: 4817094004881603349
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_51: -5292782107650290685
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_52: -2921613655327508715
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_53: 8503618076649906069
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_54: 2897441225078585176
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_55: 654798471455125350
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_56: -51201778727757750
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_57: -3771578703995379988
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_58: 8879892825934713802
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_59: -3947043733896265017
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_6: -5462389802265240459
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_60: -1620912721381522655
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_61: 6394659771765649551
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_62: 4515218896867890647
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_63: -7941939593479585985
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_64: 1791739733063971233
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_65: 3439588752250514435
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_66: 1611240662306761900
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_67: -4985918041800373099
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_68: -5949645813860311898
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_69: 6234752803003153203
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_7: -7895134979619622629
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_70: -8640231505204767805
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_71: -7167895775916474357
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_72: 5231730245116851283
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_73: 667822105455808011
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_74: 2507974019739811500
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_75: -551915657005565413
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_76: 9067099533855932067
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_77: -5114159641415158164
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_78: 7760331919283682351
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_79: 7382654758396375844
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_8: -8635764758629870613
+      PC _ Computer - RPG Maker MV - Miscellaneous - Emotions_9: -4054107694235957022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
