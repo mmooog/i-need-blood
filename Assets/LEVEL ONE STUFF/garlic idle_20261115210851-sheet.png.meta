@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 2abef0fe6a102dc44ae0c6e7186d81f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4668270047259634724
+    second: garlic idle_20261115210851-sheet_0
+  - first:
+      213: 5699416061155619627
+    second: garlic idle_20261115210851-sheet_1
+  - first:
+      213: 8123762737562067379
+    second: garlic idle_20261115210851-sheet_2
+  - first:
+      213: 8919799403306306201
+    second: garlic idle_20261115210851-sheet_3
+  - first:
+      213: 4725494725923667070
+    second: garlic idle_20261115210851-sheet_4
+  - first:
+      213: 7390332671337648152
+    second: garlic idle_20261115210851-sheet_5
+  - first:
+      213: 4022537864303158854
+    second: garlic idle_20261115210851-sheet_6
+  - first:
+      213: -4432541979751792512
+    second: garlic idle_20261115210851-sheet_7
+  - first:
+      213: -6119898639505991365
+    second: garlic idle_20261115210851-sheet_8
+  - first:
+      213: -4345980924995457617
+    second: garlic idle_20261115210851-sheet_9
+  - first:
+      213: 4568578005905059890
+    second: garlic idle_20261115210851-sheet_10
+  - first:
+      213: -8346326324094548991
+    second: garlic idle_20261115210851-sheet_11
+  - first:
+      213: -3480705691662887763
+    second: garlic idle_20261115210851-sheet_12
+  - first:
+      213: -6458780449181170490
+    second: garlic idle_20261115210851-sheet_13
+  - first:
+      213: -6570064650510877657
+    second: garlic idle_20261115210851-sheet_14
+  - first:
+      213: -5630143205781322592
+    second: garlic idle_20261115210851-sheet_15
+  - first:
+      213: -8685713670101504854
+    second: garlic idle_20261115210851-sheet_16
+  - first:
+      213: -8707018333622525719
+    second: garlic idle_20261115210851-sheet_17
+  - first:
+      213: 3464312023027846351
+    second: garlic idle_20261115210851-sheet_18
+  - first:
+      213: 9094227146633955702
+    second: garlic idle_20261115210851-sheet_19
+  - first:
+      213: 7925409282687946095
+    second: garlic idle_20261115210851-sheet_20
+  - first:
+      213: 8595560561928658234
+    second: garlic idle_20261115210851-sheet_21
+  - first:
+      213: 7542546014215815214
+    second: garlic idle_20261115210851-sheet_22
+  - first:
+      213: -1641527061865947215
+    second: garlic idle_20261115210851-sheet_23
+  - first:
+      213: -3051062272644002640
+    second: garlic idle_20261115210851-sheet_24
+  - first:
+      213: 4303967680733950521
+    second: garlic idle_20261115210851-sheet_25
+  - first:
+      213: 8933295036737670809
+    second: garlic idle_20261115210851-sheet_26
+  - first:
+      213: 7494325444415031999
+    second: garlic idle_20261115210851-sheet_27
+  - first:
+      213: 5849299229594305594
+    second: garlic idle_20261115210851-sheet_28
+  - first:
+      213: -2346924968998537260
+    second: garlic idle_20261115210851-sheet_29
+  - first:
+      213: 466778806972719442
+    second: garlic idle_20261115210851-sheet_30
+  - first:
+      213: -2825322488941844450
+    second: garlic idle_20261115210851-sheet_31
+  - first:
+      213: -6283099148665027633
+    second: garlic idle_20261115210851-sheet_32
+  - first:
+      213: 1067700688533762843
+    second: garlic idle_20261115210851-sheet_33
+  - first:
+      213: -2714171477474640767
+    second: garlic idle_20261115210851-sheet_34
+  - first:
+      213: 5729040968303705862
+    second: garlic idle_20261115210851-sheet_35
+  - first:
+      213: -3626447371875410211
+    second: garlic idle_20261115210851-sheet_36
+  - first:
+      213: 281441993346905944
+    second: garlic idle_20261115210851-sheet_37
+  - first:
+      213: 6698643642695965007
+    second: garlic idle_20261115210851-sheet_38
+  - first:
+      213: 6037619317840329297
+    second: garlic idle_20261115210851-sheet_39
+  - first:
+      213: 6008888961562471827
+    second: garlic idle_20261115210851-sheet_40
+  - first:
+      213: -7920966849501948945
+    second: garlic idle_20261115210851-sheet_41
+  - first:
+      213: -6956456126317549256
+    second: garlic idle_20261115210851-sheet_42
+  - first:
+      213: -2279113435712861332
+    second: garlic idle_20261115210851-sheet_43
+  - first:
+      213: 5072476090590291926
+    second: garlic idle_20261115210851-sheet_44
+  - first:
+      213: 3664823665235916520
+    second: garlic idle_20261115210851-sheet_45
+  - first:
+      213: -4247121937558574211
+    second: garlic idle_20261115210851-sheet_46
+  - first:
+      213: 7538111497999198074
+    second: garlic idle_20261115210851-sheet_47
+  - first:
+      213: -2820126043179074753
+    second: garlic idle_20261115210851-sheet_48
+  - first:
+      213: -7017774083870080724
+    second: garlic idle_20261115210851-sheet_49
+  - first:
+      213: -2966300922646352591
+    second: garlic idle_20261115210851-sheet_50
+  - first:
+      213: -3020132374135239624
+    second: garlic idle_20261115210851-sheet_51
+  - first:
+      213: -4765275249025476335
+    second: garlic idle_20261115210851-sheet_52
+  - first:
+      213: -6782465647020660638
+    second: garlic idle_20261115210851-sheet_53
+  - first:
+      213: -5577165670154836915
+    second: garlic idle_20261115210851-sheet_54
+  - first:
+      213: -1694564451589740576
+    second: garlic idle_20261115210851-sheet_55
+  - first:
+      213: -6512386269209678480
+    second: garlic idle_20261115210851-sheet_56
+  - first:
+      213: 1503311080098101786
+    second: garlic idle_20261115210851-sheet_57
+  - first:
+      213: -8646997037122203070
+    second: garlic idle_20261115210851-sheet_58
+  - first:
+      213: 458533370276366048
+    second: garlic idle_20261115210851-sheet_59
+  - first:
+      213: -5818378570885104203
+    second: garlic idle_20261115210851-sheet_60
+  - first:
+      213: -4787254001941285615
+    second: garlic idle_20261115210851-sheet_61
+  - first:
+      213: 4888907646306381662
+    second: garlic idle_20261115210851-sheet_62
+  - first:
+      213: -3772063923817598875
+    second: garlic idle_20261115210851-sheet_63
+  - first:
+      213: -2232304782964038696
+    second: garlic idle_20261115210851-sheet_64
+  - first:
+      213: -4593937508612095641
+    second: garlic idle_20261115210851-sheet_65
+  - first:
+      213: -7555181806112972245
+    second: garlic idle_20261115210851-sheet_66
+  - first:
+      213: 9109537380318561889
+    second: garlic idle_20261115210851-sheet_67
+  - first:
+      213: 5500983541069034795
+    second: garlic idle_20261115210851-sheet_68
+  - first:
+      213: -986973145227479892
+    second: garlic idle_20261115210851-sheet_69
+  - first:
+      213: -3792882287355159614
+    second: garlic idle_20261115210851-sheet_70
+  - first:
+      213: -8901663809895671561
+    second: garlic idle_20261115210851-sheet_71
+  - first:
+      213: -2602127195495778039
+    second: garlic idle_20261115210851-sheet_72
+  - first:
+      213: 3374342043800630676
+    second: garlic idle_20261115210851-sheet_73
+  - first:
+      213: 2053076687117210487
+    second: garlic idle_20261115210851-sheet_74
+  - first:
+      213: -4028684092640472157
+    second: garlic idle_20261115210851-sheet_75
+  - first:
+      213: 1762609012253260864
+    second: garlic idle_20261115210851-sheet_76
+  - first:
+      213: 201850434539953550
+    second: garlic idle_20261115210851-sheet_77
+  - first:
+      213: 285507172587858244
+    second: garlic idle_20261115210851-sheet_78
+  - first:
+      213: 4503139428432810251
+    second: garlic idle_20261115210851-sheet_79
+  - first:
+      213: 1013239413146291611
+    second: garlic idle_20261115210851-sheet_80
+  - first:
+      213: 1371269940295148340
+    second: garlic idle_20261115210851-sheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 482
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd35e752029f63fb0800000000000000
+      internalID: -4668270047259634724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 482
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233658f5b4681f40800000000000000
+      internalID: 5699416061155619627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 482
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b121f31b276db070800000000000000
+      internalID: 8123762737562067379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 482
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a40d55c4e79cb70800000000000000
+      internalID: 8919799403306306201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 482
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c79ae9a64549140800000000000000
+      internalID: 4725494725923667070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 482
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105b0fa86cbf8660800000000000000
+      internalID: 7390332671337648152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 386
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646295110ece2d730800000000000000
+      internalID: 4022537864303158854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 386
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08043e4dd827c72c0800000000000000
+      internalID: -4432541979751792512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 386
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3959daac90c11ba0800000000000000
+      internalID: -6119898639505991365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 386
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada50def59ffa3c0800000000000000
+      internalID: -4345980924995457617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 386
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23032a2bd79d66f30800000000000000
+      internalID: 4568578005905059890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 386
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1044ad0dd64eb2c80800000000000000
+      internalID: -8346326324094548991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 290
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d0c07d9c02bfc0800000000000000
+      internalID: -3480705691662887763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 290
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4815cc66dcd56a0800000000000000
+      internalID: -6458780449181170490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 239
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb2f2920172d4a0800000000000000
+      internalID: -6570064650510877657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 110
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a443d88596bdd1b0800000000000000
+      internalID: -5630143205781322592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 290
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac68d89f65267780800000000000000
+      internalID: -8685713670101504854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 287
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ad9315f47a2780800000000000000
+      internalID: -8707018333622525719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc80b32e65b31030800000000000000
+      internalID: 3464312023027846351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 194
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c4d5186f253e70800000000000000
+      internalID: 9094227146633955702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dc23280c5bcfd60800000000000000
+      internalID: 7925409282687946095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 254
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5d133ac0994770800000000000000
+      internalID: 8595560561928658234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204f5743a18ca860800000000000000
+      internalID: 7542546014215815214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf1a4c95df1839e0800000000000000
+      internalID: -1641527061865947215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 194
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc457b370378a5d0800000000000000
+      internalID: -3051062272644002640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 194
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b8ee5dc3cabb30800000000000000
+      internalID: 4303967680733950521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e428a518079fb70800000000000000
+      internalID: 8933295036737670809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 236
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8789f841310860800000000000000
+      internalID: 7494325444415031999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 221
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344fec88a2ec2150800000000000000
+      internalID: 5849299229594305594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 200
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f85cdc2c0e6fd0800000000000000
+      internalID: -2346924968998537260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512a421ad45a7600800000000000000
+      internalID: 466778806972719442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 215
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18e2be5a207ac8d0800000000000000
+      internalID: -2825322488941844450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc303431d92fdc8a0800000000000000
+      internalID: -6283099148665027633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 224
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13be7a8e1c31de00800000000000000
+      internalID: 1067700688533762843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c70a9eb63555ad0800000000000000
+      internalID: -2714171477474640767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ff66b2864a18f40800000000000000
+      internalID: 5729040968303705862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 194
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde97ba34554cadc0800000000000000
+      internalID: -3626447371875410211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f1567002e7e300800000000000000
+      internalID: 281441993346905944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 209
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4952dfe6ec56fc50800000000000000
+      internalID: 6698643642695965007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ab8e8e7cee9c350800000000000000
+      internalID: 6037619317840329297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d62b09cacd36350800000000000000
+      internalID: 6008888961562471827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39ac11e92131290800000000000000
+      internalID: -7920966849501948945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a04f8204b57f90800000000000000
+      internalID: -6956456126317549256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bc38dc766fe50e0800000000000000
+      internalID: -2279113435712861332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7eb47112e056640800000000000000
+      internalID: 5072476090590291926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f4dad4b11cd230800000000000000
+      internalID: 3664823665235916520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 104
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6d0a99113f05c0800000000000000
+      internalID: -4247121937558574211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 134
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a7830870cc9860800000000000000
+      internalID: 7538111497999198074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 134
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bbb7e2e46ecd8d0800000000000000
+      internalID: -2820126043179074753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 122
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214bf807abdb9e90800000000000000
+      internalID: -7017774083870080724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 125
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d20c8e60595d6d0800000000000000
+      internalID: -2966300922646352591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 98
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c03096b955616d0800000000000000
+      internalID: -3020132374135239624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 98
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11910e498675eddb0800000000000000
+      internalID: -4765275249025476335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 110
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682b08dd67dfd1a0800000000000000
+      internalID: -6782465647020660638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44eae04f5de992b0800000000000000
+      internalID: -5577165670154836915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 113
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e72df50c92bb78e0800000000000000
+      internalID: -1694564451589740576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d20a7313b5f95a0800000000000000
+      internalID: -6512386269209678480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af7246675dcd410800000000000000
+      internalID: 1503311080098101786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d97c2202bff780800000000000000
+      internalID: -8646997037122203070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 98
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64cfcbba90d5600800000000000000
+      internalID: 458533370276366048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf5a15487f04fa0800000000000000
+      internalID: -5818378570885104203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115f8b469d1409db0800000000000000
+      internalID: -4787254001941285615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f68cd0a93e8d340800000000000000
+      internalID: 4888907646306381662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56039c6b8dfe6abc0800000000000000
+      internalID: -3772063923817598875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e50d80a24501e0800000000000000
+      internalID: -2232304782964038696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76145d6fc2e0f30c0800000000000000
+      internalID: -4593937508612095641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2264292d2a962790800000000000000
+      internalID: -7555181806112972245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c706abf39b6e70800000000000000
+      internalID: 9109537380318561889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25b0b8926b675c40800000000000000
+      internalID: 5500983541069034795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4bdd357219d42f0800000000000000
+      internalID: -986973145227479892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 29
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb135bb7a9fc5bc0800000000000000
+      internalID: -3792882287355159614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8d73d8defe67480800000000000000
+      internalID: -8901663809895671561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90937143a1363ebd0800000000000000
+      internalID: -2602127195495778039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f667f53214de20800000000000000
+      internalID: 3374342043800630676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773d1488e5efd7c10800000000000000
+      internalID: 2053076687117210487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 14
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d5e1a92d3718c0800000000000000
+      internalID: -4028684092640472157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 17
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf145de8b067810800000000000000
+      internalID: 1762609012253260864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d138896ed1dc200800000000000000
+      internalID: 201850434539953550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ece2c24356f300800000000000000
+      internalID: 285507172587858244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011bc5937d5e7e30800000000000000
+      internalID: 4503139428432810251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d820db0efbf0e00800000000000000
+      internalID: 1013239413146291611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a672debab70310800000000000000
+      internalID: 1371269940295148340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garlic idle_20261115210851-sheet_0: -4668270047259634724
+      garlic idle_20261115210851-sheet_1: 5699416061155619627
+      garlic idle_20261115210851-sheet_10: 4568578005905059890
+      garlic idle_20261115210851-sheet_11: -8346326324094548991
+      garlic idle_20261115210851-sheet_12: -3480705691662887763
+      garlic idle_20261115210851-sheet_13: -6458780449181170490
+      garlic idle_20261115210851-sheet_14: -6570064650510877657
+      garlic idle_20261115210851-sheet_15: -5630143205781322592
+      garlic idle_20261115210851-sheet_16: -8685713670101504854
+      garlic idle_20261115210851-sheet_17: -8707018333622525719
+      garlic idle_20261115210851-sheet_18: 3464312023027846351
+      garlic idle_20261115210851-sheet_19: 9094227146633955702
+      garlic idle_20261115210851-sheet_2: 8123762737562067379
+      garlic idle_20261115210851-sheet_20: 7925409282687946095
+      garlic idle_20261115210851-sheet_21: 8595560561928658234
+      garlic idle_20261115210851-sheet_22: 7542546014215815214
+      garlic idle_20261115210851-sheet_23: -1641527061865947215
+      garlic idle_20261115210851-sheet_24: -3051062272644002640
+      garlic idle_20261115210851-sheet_25: 4303967680733950521
+      garlic idle_20261115210851-sheet_26: 8933295036737670809
+      garlic idle_20261115210851-sheet_27: 7494325444415031999
+      garlic idle_20261115210851-sheet_28: 5849299229594305594
+      garlic idle_20261115210851-sheet_29: -2346924968998537260
+      garlic idle_20261115210851-sheet_3: 8919799403306306201
+      garlic idle_20261115210851-sheet_30: 466778806972719442
+      garlic idle_20261115210851-sheet_31: -2825322488941844450
+      garlic idle_20261115210851-sheet_32: -6283099148665027633
+      garlic idle_20261115210851-sheet_33: 1067700688533762843
+      garlic idle_20261115210851-sheet_34: -2714171477474640767
+      garlic idle_20261115210851-sheet_35: 5729040968303705862
+      garlic idle_20261115210851-sheet_36: -3626447371875410211
+      garlic idle_20261115210851-sheet_37: 281441993346905944
+      garlic idle_20261115210851-sheet_38: 6698643642695965007
+      garlic idle_20261115210851-sheet_39: 6037619317840329297
+      garlic idle_20261115210851-sheet_4: 4725494725923667070
+      garlic idle_20261115210851-sheet_40: 6008888961562471827
+      garlic idle_20261115210851-sheet_41: -7920966849501948945
+      garlic idle_20261115210851-sheet_42: -6956456126317549256
+      garlic idle_20261115210851-sheet_43: -2279113435712861332
+      garlic idle_20261115210851-sheet_44: 5072476090590291926
+      garlic idle_20261115210851-sheet_45: 3664823665235916520
+      garlic idle_20261115210851-sheet_46: -4247121937558574211
+      garlic idle_20261115210851-sheet_47: 7538111497999198074
+      garlic idle_20261115210851-sheet_48: -2820126043179074753
+      garlic idle_20261115210851-sheet_49: -7017774083870080724
+      garlic idle_20261115210851-sheet_5: 7390332671337648152
+      garlic idle_20261115210851-sheet_50: -2966300922646352591
+      garlic idle_20261115210851-sheet_51: -3020132374135239624
+      garlic idle_20261115210851-sheet_52: -4765275249025476335
+      garlic idle_20261115210851-sheet_53: -6782465647020660638
+      garlic idle_20261115210851-sheet_54: -5577165670154836915
+      garlic idle_20261115210851-sheet_55: -1694564451589740576
+      garlic idle_20261115210851-sheet_56: -6512386269209678480
+      garlic idle_20261115210851-sheet_57: 1503311080098101786
+      garlic idle_20261115210851-sheet_58: -8646997037122203070
+      garlic idle_20261115210851-sheet_59: 458533370276366048
+      garlic idle_20261115210851-sheet_6: 4022537864303158854
+      garlic idle_20261115210851-sheet_60: -5818378570885104203
+      garlic idle_20261115210851-sheet_61: -4787254001941285615
+      garlic idle_20261115210851-sheet_62: 4888907646306381662
+      garlic idle_20261115210851-sheet_63: -3772063923817598875
+      garlic idle_20261115210851-sheet_64: -2232304782964038696
+      garlic idle_20261115210851-sheet_65: -4593937508612095641
+      garlic idle_20261115210851-sheet_66: -7555181806112972245
+      garlic idle_20261115210851-sheet_67: 9109537380318561889
+      garlic idle_20261115210851-sheet_68: 5500983541069034795
+      garlic idle_20261115210851-sheet_69: -986973145227479892
+      garlic idle_20261115210851-sheet_7: -4432541979751792512
+      garlic idle_20261115210851-sheet_70: -3792882287355159614
+      garlic idle_20261115210851-sheet_71: -8901663809895671561
+      garlic idle_20261115210851-sheet_72: -2602127195495778039
+      garlic idle_20261115210851-sheet_73: 3374342043800630676
+      garlic idle_20261115210851-sheet_74: 2053076687117210487
+      garlic idle_20261115210851-sheet_75: -4028684092640472157
+      garlic idle_20261115210851-sheet_76: 1762609012253260864
+      garlic idle_20261115210851-sheet_77: 201850434539953550
+      garlic idle_20261115210851-sheet_78: 285507172587858244
+      garlic idle_20261115210851-sheet_79: 4503139428432810251
+      garlic idle_20261115210851-sheet_8: -6119898639505991365
+      garlic idle_20261115210851-sheet_80: 1013239413146291611
+      garlic idle_20261115210851-sheet_81: 1371269940295148340
+      garlic idle_20261115210851-sheet_9: -4345980924995457617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

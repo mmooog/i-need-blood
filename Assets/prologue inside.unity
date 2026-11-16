@@ -626,6 +626,99 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1968593920}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &186662232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 186662234}
+  - component: {fileID: 186662233}
+  - component: {fileID: 186662235}
+  m_Layer: 0
+  m_Name: ExitDoor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &186662233
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186662232}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.1913383, y: -0.3957219}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.1480298, y: 3.1656017}
+  m_EdgeRadius: 0
+--- !u!4 &186662234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186662232}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.86608, y: -0.04, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &186662235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186662232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 620ac12a62a1f5c4682c1b0bc3059958, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneDoor
+  nextSceneName: prologue outside
+  fadeDuration: 2
 --- !u!1 &197346676
 GameObject:
   m_ObjectHideFlags: 0
@@ -1419,22 +1512,22 @@ GameObject:
   m_Component:
   - component: {fileID: 391364319}
   - component: {fileID: 391364318}
-  - component: {fileID: 391364317}
-  - component: {fileID: 391364316}
-  - component: {fileID: 391364320}
-  - component: {fileID: 391364324}
-  - component: {fileID: 391364323}
-  - component: {fileID: 391364322}
-  - component: {fileID: 391364321}
-  - component: {fileID: 391364333}
-  - component: {fileID: 391364332}
-  - component: {fileID: 391364331}
-  - component: {fileID: 391364330}
-  - component: {fileID: 391364329}
-  - component: {fileID: 391364328}
-  - component: {fileID: 391364327}
-  - component: {fileID: 391364326}
-  - component: {fileID: 391364325}
+  - component: {fileID: 391364352}
+  - component: {fileID: 391364351}
+  - component: {fileID: 391364350}
+  - component: {fileID: 391364349}
+  - component: {fileID: 391364348}
+  - component: {fileID: 391364347}
+  - component: {fileID: 391364346}
+  - component: {fileID: 391364345}
+  - component: {fileID: 391364344}
+  - component: {fileID: 391364343}
+  - component: {fileID: 391364342}
+  - component: {fileID: 391364341}
+  - component: {fileID: 391364340}
+  - component: {fileID: 391364339}
+  - component: {fileID: 391364338}
+  - component: {fileID: 391364337}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1442,73 +1535,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &391364316
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 1
-  indentLevel: 0
-  storyText: '"..."'
-  description: 
-  character: {fileID: 1337124634}
-  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1169145377}
---- !u!114 &391364317
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 65.66669
-    y: 70.666664
-    width: 110.17708
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 0
-  blockName: New Block
-  description: 
-  eventHandler: {fileID: 391364320}
-  commandList:
-  - {fileID: 391364316}
-  - {fileID: 391364321}
-  - {fileID: 391364322}
-  - {fileID: 391364323}
-  - {fileID: 391364324}
-  - {fileID: 391364333}
-  - {fileID: 391364332}
-  - {fileID: 391364331}
-  - {fileID: 391364330}
-  - {fileID: 391364329}
-  - {fileID: 391364328}
-  - {fileID: 391364327}
-  - {fileID: 391364326}
-  - {fileID: 391364325}
-  suppressAllAutoSelections: 0
 --- !u!114 &391364318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1522,7 +1548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 331.57812, y: 277.66666}
+  scrollPos: {x: 39.38452, y: 348.809}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -1533,8 +1559,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 391364317}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -1562,7 +1587,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &391364320
+--- !u!114 &391364337
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1574,10 +1599,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.GameStarted
-  parentBlock: {fileID: 391364317}
+  parentBlock: {fileID: 391364352}
   suppressBlockAutoSelect: 0
   waitForFrames: 4
---- !u!114 &391364321
+--- !u!114 &391364338
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1589,121 +1614,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 5
-  indentLevel: 0
-  storyText: '"...."'
-  description: 
-  character: {fileID: 1337124634}
-  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1169145377}
---- !u!114 &391364322
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 4
-  indentLevel: 0
-  storyText: '"I don''t think I can continue living like this..."'
-  description: 
-  character: {fileID: 1337124634}
-  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1169145377}
---- !u!114 &391364323
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 3
-  indentLevel: 0
-  storyText: '"I feel so weak... And powerless.. Why is there barely any blood here..?"
-
-'
-  description: 
-  character: {fileID: 1337124634}
-  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &391364324
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 2
-  indentLevel: 0
-  storyText: '"I guess it''s my fault for deciding to live in a place like this, with these ''Angels'', or whatever, but still-"'
-  description: 
-  character: {fileID: 1337124634}
-  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &391364325
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391364315}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 14
+  itemId: 32
   indentLevel: 0
   storyText: '"I can last a little longer.. I hope."'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1714,7 +1629,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364326
+--- !u!114 &391364339
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1726,11 +1641,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 13
+  itemId: 31
   indentLevel: 0
   storyText: '"It''s fine. I think I just need to go out for a bit to clear my mind."'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 1619720043369374922, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1741,7 +1656,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364327
+--- !u!114 &391364340
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1753,11 +1668,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 12
+  itemId: 30
   indentLevel: 0
   storyText: '"...."'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1768,7 +1683,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364328
+--- !u!114 &391364341
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1780,11 +1695,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 11
+  itemId: 29
   indentLevel: 0
   storyText: '"Though, I do think that those ''Angels'' got something to do with there being a lack of blood.. PURE blood.."'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 497088422041366764, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1795,7 +1710,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364329
+--- !u!114 &391364342
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1807,11 +1722,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 10
+  itemId: 28
   indentLevel: 0
   storyText: '"I guess I''m just a little different from the others. No- reasom for that is i''m simply just better than them. Totally."'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 5360390502427691582, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1822,7 +1737,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364330
+--- !u!114 &391364343
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1834,11 +1749,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 9
+  itemId: 27
   indentLevel: 0
   storyText: '"I seriously don''t get how other Vampires can live without blood for months on end.. Can''t they feel a difference when they do?"'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1849,7 +1764,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364331
+--- !u!114 &391364344
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1861,11 +1776,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 8
+  itemId: 26
   indentLevel: 0
   storyText: '"Ugh... I despise... feeling.. feeble.. I need to.. GET MYSELF TOGHETHER!"'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 4951808201708120398, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1876,7 +1791,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364332
+--- !u!114 &391364345
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1888,11 +1803,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 7
+  itemId: 25
   indentLevel: 0
   storyText: '"I NEED IT!!"'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 4951808201708120398, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1903,7 +1818,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &391364333
+--- !u!114 &391364346
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1915,11 +1830,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Fungus::Fungus.Say
-  itemId: 6
+  itemId: 24
   indentLevel: 0
   storyText: '"WHERE DID IT ALL GO?!"'
   description: 
-  character: {fileID: 1337124634}
+  character: {fileID: 0}
   portrait: {fileID: 4951808201708120398, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1930,6 +1845,183 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &391364347
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 23
+  indentLevel: 0
+  storyText: '"I guess it''s my fault for deciding to live in a place like this, with these ''Angels'', or whatever, but still-"'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &391364348
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 22
+  indentLevel: 0
+  storyText: '"I feel so weak... And powerless.. Why is there barely any blood here..?"
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &391364349
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 21
+  indentLevel: 0
+  storyText: '"I don''t think I can continue living like this..."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &391364350
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 20
+  indentLevel: 0
+  storyText: '"...."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &391364351
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 19
+  indentLevel: 0
+  storyText: '"..."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &391364352
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391364315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Block
+  nodeRect:
+    serializedVersion: 2
+    x: 391.00003
+    y: -155.33334
+    width: 110.17708
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 0
+  blockName: New Block
+  description: 
+  eventHandler: {fileID: 391364337}
+  commandList:
+  - {fileID: 391364351}
+  - {fileID: 391364350}
+  - {fileID: 391364349}
+  - {fileID: 391364348}
+  - {fileID: 391364347}
+  - {fileID: 391364346}
+  - {fileID: 391364345}
+  - {fileID: 391364344}
+  - {fileID: 391364343}
+  - {fileID: 391364342}
+  - {fileID: 391364341}
+  - {fileID: 391364340}
+  - {fileID: 391364339}
+  - {fileID: 391364338}
+  suppressAllAutoSelections: 0
 --- !u!1 &408596556
 GameObject:
   m_ObjectHideFlags: 0
@@ -10678,17 +10770,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1968593920}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1169145377 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11488894, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
-  m_PrefabInstance: {fileID: 1432234305}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a0bbe22c246e4c78ad8e9816cbae9d5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1174632139
 GameObject:
   m_ObjectHideFlags: 0
@@ -20009,3 +20090,4 @@ SceneRoots:
   - {fileID: 1757131802}
   - {fileID: 391364319}
   - {fileID: 349391139}
+  - {fileID: 186662234}

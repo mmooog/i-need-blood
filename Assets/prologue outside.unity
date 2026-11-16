@@ -686,7 +686,7 @@ MonoBehaviour:
   promptBubble: {fileID: 853468862}
   targetFlowchart: {fileID: 1066370804}
   blockName: TalkToNPC
-  interactKey: 32
+  interactKey: 101
 --- !u!1 &459706095
 GameObject:
   m_ObjectHideFlags: 0
@@ -1434,7 +1434,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 9201362025478366603, guid: 6670527fc0f49174691b706ba056d4e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1787,6 +1787,8 @@ GameObject:
   - component: {fileID: 1066370804}
   - component: {fileID: 1066370803}
   - component: {fileID: 1066370806}
+  - component: {fileID: 1066370808}
+  - component: {fileID: 1066370807}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1820,6 +1822,8 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1066370806}
+  - {fileID: 1066370808}
+  - {fileID: 1066370807}
   suppressAllAutoSelections: 0
 --- !u!114 &1066370804
 MonoBehaviour:
@@ -1834,7 +1838,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 510.6667, y: 256.6667}
+  scrollPos: {x: 210.66669, y: 285.33334}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -1845,8 +1849,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1066370803}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -1888,10 +1891,64 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 1
   indentLevel: 0
-  storyText: 
+  storyText: whnfjkqn jken efefef
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370807
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 3
+  indentLevel: 0
+  storyText: nnnnnnmmmmnnnnnnn
+  description: 
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370808
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 2
+  indentLevel: 0
+  storyText: nananaknwejkrgnjkrg
+  description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2232,6 +2289,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 8503964386875499356, guid: c339830591d85fa4fb1677d077113353, type: 3}
+    - target: {fileID: 22388894, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 22448914, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_SizeDelta.x
       value: 894.6478
