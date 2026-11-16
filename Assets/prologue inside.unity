@@ -718,7 +718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneDoor
   nextSceneName: prologue outside
-  fadeDuration: 2
+  fadeDuration: 1
 --- !u!1 &197346676
 GameObject:
   m_ObjectHideFlags: 0
