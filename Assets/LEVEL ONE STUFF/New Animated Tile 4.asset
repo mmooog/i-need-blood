@@ -12,10 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
   m_Name: New Animated Tile 4
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: 8908267579535644799, guid: 488d20a3f54a86c41b1130ab8f2e6cbf, type: 3}
+  - {fileID: 8454281236125013383, guid: 488d20a3f54a86c41b1130ab8f2e6cbf, type: 3}
+  - {fileID: 354346114469698597, guid: 488d20a3f54a86c41b1130ab8f2e6cbf, type: 3}
+  - {fileID: 8454281236125013383, guid: 488d20a3f54a86c41b1130ab8f2e6cbf, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 6
   m_AnimationStartTime: 0
-  m_AnimationStartFrame: 0
+  m_AnimationStartFrame: 1
   m_TileColliderType: 0
   m_TileAnimationFlags: 0
