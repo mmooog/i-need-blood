@@ -29,12 +29,15 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    public void TakeDamage(int damage)
+       public void TakeDamage(int damage)
     {
         if (isDead) return;
 
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+        // Triggers the red flash and backward knockback in PlayerCombat
+        GetComponent<PlayerCombat>()?.TriggerDamageImpact();
 
         if (healthBar != null)
             healthBar.SetHealth(currentHealth);
@@ -44,6 +47,7 @@ public class PlayerHealth : MonoBehaviour
             Die();
         }
     }
+
 
     void Die()
     {
