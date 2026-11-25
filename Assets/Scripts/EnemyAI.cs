@@ -17,6 +17,7 @@ public class EnemyAI : MonoBehaviour
     private Animator anim;
     private float nextAttackTime = 0f;
     private bool facingRight = true;
+    private float targetSpeedX = 0f;
 
     void Start()
     {
@@ -44,7 +45,7 @@ public class EnemyAI : MonoBehaviour
             return;
         }
 
-        // Face toward the player whenever inside chaseRange
+        // Face toward the player whenever inside chaseRange (with a small deadzone to prevent flip-jitter when passing through)
         FacePlayer();
 
         // 2. Player is within chaseRange, but outside attackRange: walk toward player
@@ -65,18 +66,24 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
+    void FixedUpdate()
+    {
+        // Applies movement on the physics step so movement stays smooth
+        rb.linearVelocity = new Vector2(targetSpeedX, rb.linearVelocity.y);
+    }
+
     void MoveTowardPlayer()
     {
         if (anim != null) anim.SetBool("IsWalking", true);
 
         float direction = Mathf.Sign(player.position.x - transform.position.x);
-        rb.linearVelocity = new Vector2(direction * moveSpeed, rb.linearVelocity.y);
+        targetSpeedX = direction * moveSpeed;
     }
 
     void StopMoving()
     {
         if (anim != null) anim.SetBool("IsWalking", false);
-        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        targetSpeedX = 0f;
     }
 
     void AttackPlayer()
@@ -90,6 +97,9 @@ public class EnemyAI : MonoBehaviour
     void FacePlayer()
     {
         float direction = player.position.x - transform.position.x;
+
+        // Deadzone of 0.25f stops rapid left/right sprite flickering when your player walks right through the enemy
+        if (Mathf.Abs(direction) <= 0.25f) return;
 
         if (direction > 0 && !facingRight)
             Flip();
