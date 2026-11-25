@@ -245,7 +245,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 3.5245361, y: 0}
+  m_AnchoredPosition: {x: 3.524414, y: 0}
   m_SizeDelta: {x: 7.049, y: 1080.3}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &52290096
@@ -1496,7 +1496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 3.5245361, y: 0}
+  m_AnchoredPosition: {x: 3.524414, y: 0}
   m_SizeDelta: {x: 7.049, y: 1080.3}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &868576631
@@ -1849,6 +1849,19 @@ GameObject:
   - component: {fileID: 1066370852}
   - component: {fileID: 1066370851}
   - component: {fileID: 1066370850}
+  - component: {fileID: 1066370871}
+  - component: {fileID: 1066370883}
+  - component: {fileID: 1066370882}
+  - component: {fileID: 1066370881}
+  - component: {fileID: 1066370880}
+  - component: {fileID: 1066370879}
+  - component: {fileID: 1066370878}
+  - component: {fileID: 1066370877}
+  - component: {fileID: 1066370876}
+  - component: {fileID: 1066370875}
+  - component: {fileID: 1066370874}
+  - component: {fileID: 1066370873}
+  - component: {fileID: 1066370872}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1918,8 +1931,8 @@ MonoBehaviour:
   - {fileID: 1066370837}
   - {fileID: 1066370836}
   - {fileID: 1066370870}
-  - {fileID: 1066370868}
   - {fileID: 1066370869}
+  - {fileID: 1066370868}
   - {fileID: 1066370867}
   - {fileID: 1066370866}
   - {fileID: 1066370865}
@@ -1935,9 +1948,22 @@ MonoBehaviour:
   - {fileID: 1066370855}
   - {fileID: 1066370854}
   - {fileID: 1066370853}
+  - {fileID: 1066370850}
   - {fileID: 1066370852}
   - {fileID: 1066370851}
-  - {fileID: 1066370850}
+  - {fileID: 1066370871}
+  - {fileID: 1066370883}
+  - {fileID: 1066370882}
+  - {fileID: 1066370881}
+  - {fileID: 1066370880}
+  - {fileID: 1066370879}
+  - {fileID: 1066370878}
+  - {fileID: 1066370877}
+  - {fileID: 1066370876}
+  - {fileID: 1066370875}
+  - {fileID: 1066370874}
+  - {fileID: 1066370873}
+  - {fileID: 1066370872}
   suppressAllAutoSelections: 0
 --- !u!114 &1066370804
 MonoBehaviour:
@@ -1952,10 +1978,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 324.95435, y: 346.76797}
+  scrollPos: {x: 426.58893, y: 348.96448}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 608.6667
+  blockViewHeight: 420.6667
   zoom: 0.9100001
   scrollViewRect:
     serializedVersion: 2
@@ -1963,8 +1989,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1066370803}
+  selectedCommands:
+  - {fileID: 1066370819}
   variables: []
   description: 
   stepPause: 0
@@ -2008,7 +2036,7 @@ MonoBehaviour:
   storyText: WAAAAAAAAHHHHHHHHHHHHHHHHH
   description: 
   character: {fileID: 587923503}
-  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  portrait: {fileID: -7652930634183172578, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2061,8 +2089,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: AAAAAAAHHHHHHHHHHHH
   description: 
-  character: {fileID: 886748052}
-  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  character: {fileID: 587923503}
+  portrait: {fileID: -7652930634183172578, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2088,8 +2116,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: BUT WHAT?? JUST SHUT UP ALREADY! *hics* IM THIIIIRSSSTYYYYYYYYYYYYY!!!!!!!!!!!
   description: 
-  character: {fileID: 886748052}
-  portrait: {fileID: 1619720043369374922, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2146,7 +2174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 137.89893
+    x: 137.18968
     y: -0.7476196
     width: 110.17708
     height: 40
@@ -2263,8 +2291,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'YOU''RE RIGHT! OHMYGOSH, *ahem* I''m sorry for my attitude, young.. gentleman! Seeing another Vampire like you.. '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 5949493407736886436, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2290,8 +2318,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..I think this guy's a Vampire, just like us, Sister! Maybe he has blood, he could help us!!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2317,8 +2345,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '*sniffles* WHO DO YOU THINK YOU''RE TALKING TO?! Uhm wait...- '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2344,8 +2372,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Be quiet, won't you?! Jeez, so you're that shreiking noise I've heard back there.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 5360390502427691582, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2398,8 +2426,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...I-I was just trying to help, sister.. Sorry.....
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2425,8 +2453,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2450,12 +2478,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 19
   indentLevel: 0
-  storyText: 'Do you happen have blood by any chance?? Pleaaase? My brother and I need it!
+  storyText: 'Do you happen have blood by any chance?? Pleaaase? My brother and I needs it!
 
 '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 2913895555882435739, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2481,8 +2509,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Woah woah woah, let''s just slow down for a moment.. I''m seeing you two by the middle of the road, '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2508,8 +2536,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: It's unsafe for you children to roam around here.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2535,8 +2563,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 2913895555882435739, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2562,8 +2590,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: You KNOW this is a place where there's very little-if not- *NO* Vampires at all in this area, right?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 5360390502427691582, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2589,8 +2617,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: don't you have your parents to feed you? And also another question, WHY are you here?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2616,8 +2644,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..We travel from place to place to find neccesities and sleep, but the sun being out really takes a toll on us..
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2643,8 +2671,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '-So we''re the ones providing food and blood for ourselves, pretty much.. '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2670,8 +2698,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Brother, let me talk for us.. We don't really know- or have our parents, ..
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2697,8 +2725,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: W-well.. ...-
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2724,8 +2752,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ' Unfortunately, I don''t have a cab to magically send you back home. nor am I planning to go anywhere.'
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 497088422041366764, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2778,8 +2806,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: It's my pleasure, don't worry about it. I promise.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2805,8 +2833,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '*gasp* REALLY? YOU-YOU''D LET US HAVE SOME BLOOD, UHM- ARE YOU SURE I DON''T WANT TO-'
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 5949493407736886436, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2832,8 +2860,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: -by those.. 'Angels' , I'm aware and convinced they are definitely shortening the supply of blood.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 4117759995718921443, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2859,8 +2887,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: We are disadvantaged by the sun to move around much and still to this day are looked down upon-
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2886,8 +2914,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'naturally, It''d be more painful to go without blood at your ages. And.. I''m sorry for your circumstances. '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 4180291368412928735, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2913,8 +2941,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: -Actually, I may just have a bit left back at my house. You both can have it,  you're kids, and I'm an adult,
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 497088422041366764, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2967,8 +2995,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..I'm sorry you two, but.. I.. seriously don't have any myself.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 2510639206867015839, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2994,8 +3022,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3021,8 +3049,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..Just a little longer right? So.. Sir, to help us out, our kind out, would you happen to have any..?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3048,8 +3076,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: SISTER- Please don't cry like that.. I-I know it's hurting you the most but we.. need to last..
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3075,8 +3103,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: BECAUSE OF THAT WE'RE IN SOOO MUCH PAAAAIIIINNNNN!! WAAAAAAHHH!!!!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -7652930634183172578, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3102,8 +3130,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'It''s been.. *hics* harder and harder to find blood and- and- '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 2913895555882435739, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3127,10 +3155,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 65
   indentLevel: 0
-  storyText: (I gave a forceful push at them from my body and created some space between us/)
+  storyText: ...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -5081683946658837307, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3210,8 +3238,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: These 'good guys' want us gone for good!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3237,8 +3265,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Suffer, shrivel up, grow extremely weak and famished and possibly even DIE!  It's sooo insane, right??
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3264,8 +3292,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Yeah, yeah, yeah! You're correct for once, Brother! They're keeping blood from us so we can-
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3291,8 +3319,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..I-If I remember..  It was a 'Garlic Lady' who keeps it.. To fend us off from it, I suppose...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3318,8 +3346,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ?!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -7727426380685523943, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3345,8 +3373,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Oh! Right! Apparently TOOONS of blood is being hoarded by this lady who works for the Angels!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 5949493407736886436, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3372,8 +3400,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...Well, We do have SOMETHING. I guess...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3426,8 +3454,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: There's been such a lack of blood this past year. Anything?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 1619720043369374922, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3453,8 +3481,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: It's not like that, that's a little too cruel for me. I'm just wondering if you know anything as to why-
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: -2536396195673936148, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3480,8 +3508,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: W-whaat?! Don't tell me.. Getting blood comes with a price..!
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3505,10 +3533,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 51
   indentLevel: 0
-  storyText: But before I give you two any, I need some information from you botjh.
+  storyText: But before I give you two any, I need some information from you both.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 1619720043369374922, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3534,8 +3562,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Second of all- It's.. Not a big deal.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 2841724289728141236, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3561,8 +3589,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'First of all- Don''t come RUSHING AT ME LIKE THAT! '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 886748052}
+  portrait: {fileID: 8116015519978754538, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3615,8 +3643,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ..Thanks.. so much.. You're such a kind man.. *his voice breaks near the end*
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3640,10 +3668,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 46
   indentLevel: 0
-  storyText: THANK YOU THANK YOU THANK YOU SO MUUUUUUUUCHHHH! *she begins to weep*
+  storyText: THANK YOU THANK YOU THANK YOU SO MUUUUUUUUCHHHH! *she begins to weep again*
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 587923503}
+  portrait: {fileID: -7652930634183172578, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3669,8 +3697,359 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ?! Get off me!-
   description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: 4951808201708120398, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370871
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 66
+  indentLevel: 0
+  storyText: (After what I've heard, I felt a poweful surge of ambition rejuvinating my frail body, I suddenly feel so alive..)
+  description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370872
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 78
+  indentLevel: 0
+  storyText: WAAAAAIIT! HOLD ON!
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: -7652930634183172578, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370873
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 77
+  indentLevel: 0
+  storyText: (I should  get going as soon as possible. There's no time for me to waste.)
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370874
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 76
+  indentLevel: 0
+  storyText: -BEFORE YOU HEAD OUT, ATLEAST??
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: 5949493407736886436, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370875
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 75
+  indentLevel: 0
+  storyText: BUT WAIT WAIT WAIT! WHAT ABOUT THE BLOOD? MAYBE YOU CAN QUICKLY GIVE US SOME-
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: 2913895555882435739, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370876
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 74
+  indentLevel: 0
+  storyText: These dunegons are filled with dozens of things that repels us, weakens us and-and KILLS US!
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: -6955468467831522477, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370877
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 73
+  indentLevel: 0
+  storyText: Its-Its past us! .. Just walk right and you'd find your way to somewhere, It's very dangerous!
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: 2913895555882435739, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370878
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 72
+  indentLevel: 0
+  storyText: -Unlike you babies,  I actually have experience.  Tell me which direction I should head to, now.
+  description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: 1619720043369374922, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370879
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 71
+  indentLevel: 0
+  storyText: What? You think I can't fight? Pshh, don't underestimate me like that again! I know a thing or two about fighting,
+  description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: 5360390502427691582, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370880
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 70
+  indentLevel: 0
+  storyText: Wait... She's damgerous.. I-I don't think you can...
+  description: 
+  character: {fileID: 274670159}
+  portrait: {fileID: -2192408464805179548, guid: 601641c6923b066479dc41ee0d49f6be, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370881
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 69
+  indentLevel: 0
+  storyText: Where's that lady? I'll kick her ass right now!
+  description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: 4117759995718921443, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370882
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 68
+  indentLevel: 0
+  storyText: Huh? Where's what?
+  description: 
+  character: {fileID: 587923503}
+  portrait: {fileID: 7862619902346014006, guid: f3d50a3e39d3ed848bb929163f49a7a7, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1066370883
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066370802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 67
+  indentLevel: 0
+  storyText: Where?
+  description: 
+  character: {fileID: 886748052}
+  portrait: {fileID: 5360390502427691582, guid: eb7cf8d16d4ab88488e151eb41d01ba6, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4156,7 +4535,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 110
+      value: 85
       objectReference: {fileID: 0}
     - target: {fileID: 11488900, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Text
@@ -4234,7 +4613,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -303.8444
+      value: -421.9963
       objectReference: {fileID: 0}
     - target: {fileID: 22488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_SizeDelta.y
@@ -4242,7 +4621,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -120
+      value: -179.07593
       objectReference: {fileID: 0}
     - target: {fileID: 22488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_AnchoredPosition.y
