@@ -612,9 +612,9 @@ TextureImporter:
       name: garlic idle_20261115210851-sheet_12
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 290
-        width: 53
+        width: 51
         height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -634,10 +634,10 @@ TextureImporter:
       name: garlic idle_20261115210851-sheet_13
       rect:
         serializedVersion: 2
-        x: 119
-        y: 290
-        width: 53
-        height: 56
+        x: 120
+        y: 291
+        width: 51
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,7 +661,7 @@ TextureImporter:
         width: 51
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,7 +683,7 @@ TextureImporter:
         width: 83
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -771,7 +771,7 @@ TextureImporter:
         width: 83
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -793,7 +793,7 @@ TextureImporter:
         width: 111
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -815,7 +815,7 @@ TextureImporter:
         width: 60
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -837,7 +837,7 @@ TextureImporter:
         width: 78
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -859,7 +859,7 @@ TextureImporter:
         width: 78
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -925,7 +925,7 @@ TextureImporter:
         width: 96
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,7 +947,7 @@ TextureImporter:
         width: 84
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -969,7 +969,7 @@ TextureImporter:
         width: 78
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -991,7 +991,7 @@ TextureImporter:
         width: 99
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1066,6 +1066,28 @@ TextureImporter:
       bones: []
       spriteID: e5f68cd0a93e8d340800000000000000
       internalID: 4888907646306381662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garlic idle_20261115210851-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 291
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee1515935b7da4da3a78b67d4e9f40
+      internalID: 466778806972719442
       vertices: []
       indices: 
       edges: []

@@ -94,13 +94,16 @@ public class PlayerCombat : MonoBehaviour
     }
 
     // Called automatically when the player takes damage
-    public void TriggerDamageImpact()
+    public void TriggerDamageImpact(bool applyPushback = true)
     {
         StopCoroutine(nameof(DamageFlashRoutine));
         StartCoroutine(nameof(DamageFlashRoutine));
 
-        StopCoroutine(nameof(PushbackRoutine));
-        StartCoroutine(nameof(PushbackRoutine));
+        if (applyPushback)
+        {
+            StopCoroutine(nameof(PushbackRoutine));
+            StartCoroutine(nameof(PushbackRoutine));
+        }
     }
 
     IEnumerator DamageFlashRoutine()
