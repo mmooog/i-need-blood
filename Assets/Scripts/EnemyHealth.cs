@@ -11,6 +11,11 @@ public class EnemyHealth : MonoBehaviour
     public Color flashColor = Color.red;
     public float flashDuration = 0.1f;
 
+    [Header("Audio")]
+    public AudioClip deathSound;
+    [Range(0f, 1f)]
+    public float deathVolume = 0.8f;
+
     private int currentHealth;
     private bool isDead = false;
     private Animator anim;
@@ -62,6 +67,12 @@ public class EnemyHealth : MonoBehaviour
         if (anim != null)
         {
             anim.SetTrigger("Die");
+        }
+
+        if (deathSound != null)
+        {
+            Vector3 playPos = Camera.main != null ? Camera.main.transform.position : transform.position;
+            AudioSource.PlayClipAtPoint(deathSound, playPos, deathVolume);
         }
 
         // Stop enemy movement and attacking immediately on death

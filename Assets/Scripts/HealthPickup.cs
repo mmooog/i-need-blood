@@ -8,6 +8,11 @@ public class HealthPickup : MonoBehaviour
     public Color healFlashColor = Color.green;
     public float flashDuration = 0.15f;
 
+    [Header("Audio")]
+    public AudioClip pickupSound;
+    [Range(0f, 1f)]
+    public float pickupVolume = 0.8f;
+
     private bool isCollected = false;
 
     void OnTriggerEnter2D(Collider2D other)
@@ -20,6 +25,13 @@ public class HealthPickup : MonoBehaviour
             if (playerHealth != null && playerHealth.currentHealth < playerHealth.maxHealth)
             {
                 isCollected = true;
+
+                // Play the pickup sound at the camera's position so it stays loud 2D audio and never cuts off on destroy
+                if (pickupSound != null)
+                {
+                    Vector3 playPos = Camera.main != null ? Camera.main.transform.position : transform.position;
+                    AudioSource.PlayClipAtPoint(pickupSound, playPos, pickupVolume);
+                }
 
                 // Restore HP without going over maxHealth, and update the HUD bar
                 playerHealth.currentHealth = Mathf.Clamp(playerHealth.currentHealth + healAmount, 0, playerHealth.maxHealth);

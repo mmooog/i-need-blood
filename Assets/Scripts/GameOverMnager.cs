@@ -12,9 +12,12 @@ public class GameOverManager : MonoBehaviour
     public float fadeDuration = 1.2f;
     public float respawnFadeInDuration = 0.8f;
 
-    [Header("Audio")]
+    [Header("Audio & BGM Crossfade")]
     public AudioSource audioSource;
     public AudioClip gameOverSound;
+    [Range(0f, 1f)]
+    public float gameOverVolume = 0.8f;
+    public AudioSource levelBgmSource; // Optional: auto-detects BGMManager if left empty
 
     private static bool isRespawning = false;
     private bool isGameOver = false;
@@ -26,7 +29,17 @@ public class GameOverManager : MonoBehaviour
             tryAgainButton.onClick.AddListener(RestartScene);
         }
 
-        // If the scene just reloaded from clicking "Try Again?", fade in from black!
+        if (levelBgmSource == null)
+        {
+#pragma warning disable CS0618
+            BGMManager bgm = FindObjectOfType<BGMManager>();
+#pragma warning restore CS0618
+            if (bgm != null)
+            {
+                levelBgmSource = bgm.GetComponent<AudioSource>();
+            }
+        }
+
         if (isRespawning && gameOverCanvasGroup != null)
         {
             isRespawning = false;
@@ -36,7 +49,6 @@ public class GameOverManager : MonoBehaviour
 
     IEnumerator FadeInFromBlack()
     {
-        // Hide the Game Over text and button while fading in so only pure black shows
         foreach (Transform child in gameOverCanvasGroup.transform)
         {
             child.gameObject.SetActive(false);
@@ -56,7 +68,6 @@ public class GameOverManager : MonoBehaviour
 
         gameOverCanvasGroup.alpha = 0f;
 
-        // Re-enable the text and button children silently for the next Game Over
         foreach (Transform child in gameOverCanvasGroup.transform)
         {
             child.gameObject.SetActive(true);
@@ -76,18 +87,40 @@ public class GameOverManager : MonoBehaviour
 
         if (audioSource != null && gameOverSound != null)
         {
-            audioSource.PlayOneShot(gameOverSound);
+            audioSource.clip = gameOverSound;
+            audioSource.volume = 0f;
+            audioSource.Play();
         }
 
+        float startBgmVolume = levelBgmSource != null ? levelBgmSource.volume : 0f;
         float elapsed = 0f;
+
         while (elapsed < fadeDuration)
         {
             elapsed += Time.deltaTime;
+            float t = Mathf.Clamp01(elapsed / fadeDuration);
+
             if (gameOverCanvasGroup != null)
             {
-                gameOverCanvasGroup.alpha = Mathf.Clamp01(elapsed / fadeDuration);
+                gameOverCanvasGroup.alpha = t;
             }
+
+            if (levelBgmSource != null)
+            {
+                levelBgmSource.volume = Mathf.Lerp(startBgmVolume, 0f, t);
+            }
+
+            if (audioSource != null && gameOverSound != null)
+            {
+                audioSource.volume = Mathf.Lerp(0f, gameOverVolume, t);
+            }
+
             yield return null;
+        }
+
+        if (levelBgmSource != null)
+        {
+            levelBgmSource.Stop();
         }
 
         if (gameOverCanvasGroup != null)
