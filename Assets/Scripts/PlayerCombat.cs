@@ -18,20 +18,35 @@ public class PlayerCombat : MonoBehaviour
     public Color damageFlashColor = Color.red;
     public float flashDuration = 0.12f;
 
+    [Header("Audio")]
+    public AudioClip attackSound;
+    [Range(0f, 1f)]
+    public float attackVolume = 0.8f;
+    public AudioClip landSound;       // Optional: plays when hitting the ground after a jump
+    [Range(0f, 1f)]
+    public float landVolume = 0.6f;
+
     [Header("Input")]
     public KeyCode attackKey = KeyCode.J;
 
     private Animator anim;
     private PlayerController playerController;
     private SpriteRenderer spriteRenderer;
+    private AudioSource sfxSource;
     private Color originalColor;
     private float nextAttackTime = 0f;
+    private bool wasGrounded = true;
 
     void Start()
     {
         anim = GetComponent<Animator>();
         playerController = GetComponent<PlayerController>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        // Creates its own dedicated 2D AudioSource so attack/land SFX never cut off PlatformerFootsteps
+        sfxSource = gameObject.AddComponent<AudioSource>();
+        sfxSource.spatialBlend = 0f;
+        sfxSource.playOnAwake = false;
 
         if (spriteRenderer != null)
         {
@@ -49,11 +64,27 @@ public class PlayerCombat : MonoBehaviour
                 nextAttackTime = Time.time + attackCooldown;
             }
         }
+
+        // Optional landing sound when touching back down on the ground
+        if (anim != null && landSound != null)
+        {
+            bool isGrounded = anim.GetBool("IsGrounded");
+            if (isGrounded && !wasGrounded)
+            {
+                sfxSource.PlayOneShot(landSound, landVolume);
+            }
+            wasGrounded = isGrounded;
+        }
     }
 
     void Attack()
     {
         anim.SetTrigger("Attack");
+
+        if (sfxSource != null && attackSound != null)
+        {
+            sfxSource.PlayOneShot(attackSound, attackVolume);
+        }
 
         if (playerController != null)
         {
