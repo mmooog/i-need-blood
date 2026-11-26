@@ -10,23 +10,19 @@ public class PlayerCombat : MonoBehaviour
     public float attackCooldown = 0.4f;
     public LayerMask enemyLayers;
 
-    [Header("Attack Lunge")]
-    public float lungeDistance = 0.6f;
+    [Header("Attack Lunge (Physics-Driven)")]
+    public float lungeSpeed = 12f;
     public float lungeDuration = 0.1f;
-    public float wallStopDistance = 0.4f; // Stops the dash before hitting a wall
-    public LayerMask wallLayers;          // Set this to Ground in the Inspector
 
-    [Header("Damage Impact (Flash & Pushback)")]
+    [Header("Damage Impact (Flash Only)")]
     public Color damageFlashColor = Color.red;
     public float flashDuration = 0.12f;
-    public float pushbackDistance = 0.5f;
-    public float pushbackDuration = 0.1f;
 
     [Header("Input")]
     public KeyCode attackKey = KeyCode.J;
 
     private Animator anim;
-    private Collider2D playerCollider;
+    private PlayerController playerController;
     private SpriteRenderer spriteRenderer;
     private Color originalColor;
     private float nextAttackTime = 0f;
@@ -34,7 +30,7 @@ public class PlayerCombat : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
-        playerCollider = GetComponent<Collider2D>();
+        playerController = GetComponent<PlayerController>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
         if (spriteRenderer != null)
@@ -58,7 +54,12 @@ public class PlayerCombat : MonoBehaviour
     void Attack()
     {
         anim.SetTrigger("Attack");
-        StartCoroutine(LungeForward());
+
+        if (playerController != null)
+        {
+            float direction = Mathf.Sign(transform.localScale.x);
+            playerController.ApplyHorizontalImpulse(direction, lungeSpeed, lungeDuration, true);
+        }
 
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
@@ -69,41 +70,11 @@ public class PlayerCombat : MonoBehaviour
         }
     }
 
-    IEnumerator LungeForward()
-    {
-        float direction = Mathf.Sign(transform.localScale.x);
-        float elapsed = 0f;
-        float speed = lungeDistance / lungeDuration;
-
-        while (elapsed < lungeDuration)
-        {
-            float step = Mathf.Abs(speed * Time.deltaTime);
-
-            Vector2 origin = playerCollider != null ? (Vector2)playerCollider.bounds.center : (Vector2)transform.position;
-            RaycastHit2D hitWall = Physics2D.Raycast(origin, Vector2.right * direction, step + wallStopDistance, wallLayers);
-
-            if (hitWall.collider != null)
-            {
-                yield break;
-            }
-
-            transform.position += new Vector3(direction * step, 0f, 0f);
-            elapsed += Time.deltaTime;
-            yield return null;
-        }
-    }
-
-    // Called automatically when the player takes damage
-    public void TriggerDamageImpact(bool applyPushback = true)
+    // Called automatically when the player takes damage (keeps the parameter so PlayerHealth.cs compiles without changes)
+    public void TriggerDamageImpact(bool applyPushback = false)
     {
         StopCoroutine(nameof(DamageFlashRoutine));
         StartCoroutine(nameof(DamageFlashRoutine));
-
-        if (applyPushback)
-        {
-            StopCoroutine(nameof(PushbackRoutine));
-            StartCoroutine(nameof(PushbackRoutine));
-        }
     }
 
     IEnumerator DamageFlashRoutine()
@@ -113,32 +84,6 @@ public class PlayerCombat : MonoBehaviour
             spriteRenderer.color = damageFlashColor;
             yield return new WaitForSeconds(flashDuration);
             spriteRenderer.color = originalColor;
-        }
-    }
-
-    IEnumerator PushbackRoutine()
-    {
-        // Pushes backward in the opposite direction of where the player is facing
-        float knockbackDirection = -Mathf.Sign(transform.localScale.x);
-        float elapsed = 0f;
-        float speed = pushbackDistance / pushbackDuration;
-
-        while (elapsed < pushbackDuration)
-        {
-            float step = Mathf.Abs(speed * Time.deltaTime);
-
-            // Checks for walls behind the player so knockback never clips through tiles
-            Vector2 origin = playerCollider != null ? (Vector2)playerCollider.bounds.center : (Vector2)transform.position;
-            RaycastHit2D hitWall = Physics2D.Raycast(origin, Vector2.right * knockbackDirection, step + wallStopDistance, wallLayers);
-
-            if (hitWall.collider != null)
-            {
-                yield break;
-            }
-
-            transform.position += new Vector3(knockbackDirection * step, 0f, 0f);
-            elapsed += Time.deltaTime;
-            yield return null;
         }
     }
 
