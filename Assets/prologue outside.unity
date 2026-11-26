@@ -2139,7 +2139,7 @@ MonoBehaviour:
   scrollPos: {x: 181.16766, y: 465.44803}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 254
+  blockViewHeight: 611.3334
   zoom: 0.9100001
   scrollViewRect:
     serializedVersion: 2
@@ -2148,8 +2148,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks: []
-  selectedCommands:
-  - {fileID: 1066370815}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -2554,7 +2553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 14
   indentLevel: 0
-  storyText: (Huh.. Those kids are.. Vampires?! How? In a place like this?)
+  storyText: '{color=#ff00d9}(Huh.. Those kids are.. Vampires?! How? In a place like this?)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2934,7 +2933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 44
   indentLevel: 0
-  storyText: (they then suddenly rushed up to me and gave me a squeezing hug from both sides of my body.)
+  storyText: '{color=#ff00d9}(they then suddenly rushed up to me and gave me a squeezing hug from both sides of my body.)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3123,7 +3122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 36
   indentLevel: 0
-  storyText: (What the heck? I'm really feeling bad for these stupid and whiny kids. Maybe I should-)
+  storyText: '{color=#ff00d9}(What the heck? I''m really feeling bad for these stupid and whiny kids. Maybe I should-)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3339,7 +3338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 64
   indentLevel: 0
-  storyText: (How do they- Know so MUCH? Was I THAT in the dark for so long?!)
+  storyText: '{color=#ff00d9}(How do they- Know so MUCH? Was I THAT in the dark for so long?!)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3366,7 +3365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 63
   indentLevel: 0
-  storyText: (I had to intake all of the information that was being said to me right now.)
+  storyText: '{color=#ff00d9}(I had to intake all of the information that was being said to me right now.)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3582,7 +3581,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 55
   indentLevel: 0
-  storyText: (Even wild conspiracies will drive me, I need something to cling to at this point, i'm too shut-in..)
+  storyText: '{color=#ff00d9}(Even wild conspiracies will drive me, I need something to cling to at this point, i''m too shut-in..)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3771,7 +3770,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 48
   indentLevel: 0
-  storyText: (I gave a forceful push at them from my body and created some space between us)
+  storyText: '{color=#ff00d9}(I gave a forceful push at them from my body and created some space between us)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3879,7 +3878,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 66
   indentLevel: 0
-  storyText: (After what I've heard, I felt a poweful surge of ambition rejuvinating my frail body, I suddenly feel so alive..)
+  storyText: '{color=#ff00d9}(After what I''ve heard, I felt a poweful surge of ambition rejuvinating my frail body, I suddenly feel so alive..)){/color}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3933,7 +3932,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 77
   indentLevel: 0
-  storyText: (I should  get going as soon as possible. There's no time for me to waste.)
+  storyText: '{color=#ff00d9}(I should  get going as soon as possible. There''s no time for me to waste.)){/color}'
   description: 
   character: {fileID: 587923503}
   portrait: {fileID: 0}
